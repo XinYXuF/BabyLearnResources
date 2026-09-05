@@ -1,10 +1,11 @@
 {
   "version": 3,
-  "remark": "宝宝认知小乐园分类播单配置。image 为相对本仓库的图片路径，src 为相对本仓库的音频路径，小程序端会自动拼接 Gitee raw 基地址。新增资源只需在 audio/ 或 images/ 放文件并在本文件加配置即可动态下发，无需改小程序代码。曲目级开关 enabled：缺省或 true 为启用，false 为下架（小程序端加载时不出现该曲目）。曲目级排序 order：数值（支持小数），加载时按从小到大排序，缺省按配置中的出现顺序；如需在 1 和 2 之间插入新曲目，order 填 1.5 即可，无需改动其他曲目。",
+  "remark": "宝宝认知小乐园分类播单配置。image 为相对本仓库的图片路径，src 为相对本仓库的音频路径，小程序端会自动拼接 Gitee raw 基地址。新增资源只需在 audio/ 或 images/ 放文件并在本文件加配置即可动态下发，无需改小程序代码。曲目级开关 enabled：缺省或 true 为启用，false 为下架（小程序端加载时不出现该曲目）。曲目级排序 order：数值（支持小数），加载时按从小到大排序，缺省按配置中的出现顺序；如需在 1 和 2 之间插入新曲目，order 填 1.5 即可，无需改动其他曲目。分类级排序 order：作用于分类在首页网格中的先后排列，规则同曲目级（数值升序、支持小数，缺省按配置中的出现顺序）。",
   "categories": [
     {
       "id": "erge",
       "label": "儿歌",
+      "order": 1,
       "image": "images/erge.jpg",
       "playlist": [
         { "title": "小星星", "src": "audio/erge/star.mp3", "enabled": true, "order": 1 },
@@ -45,6 +46,7 @@
     {
       "id": "gushi",
       "label": "故事",
+      "order": 2,
       "image": "images/gushi.jpg",
       "playlist": [
         { "title": "小红帽", "src": "audio/gushi/red-hat.mp3", "enabled": true, "order": 1 },
@@ -86,6 +88,7 @@
     {
       "id": "hudong",
       "label": "互动",
+      "order": 3,
       "image": "images/hudong.jpg",
       "playlist": [
         { "title": "拍手歌", "src": "audio/hudong/clap.mp3", "enabled": true, "order": 1 },
@@ -122,6 +125,7 @@
     {
       "id": "english",
       "label": "学英语",
+      "order": 4,
       "image": "images/english.jpg",
       "playlist": [
         { "title": "字母歌", "src": "audio/english/abc.mp3", "enabled": true, "order": 1 }
@@ -130,6 +134,7 @@
     {
       "id": "number",
       "label": "数字",
+      "order": 5,
       "image": "images/number.jpg",
       "playlist": [
         { "title": "数字1-10", "src": "audio/number/1-10.mp3", "enabled": true, "order": 1 },
@@ -165,6 +170,7 @@
     {
       "id": "yaolanqu",
       "label": "摇篮曲",
+      "order": 6,
       "image": "images/yaolanqu.jpg",
       "playlist": [
         { "title": "摇篮曲·小星星", "src": "audio/yaolanqu/star.mp3", "enabled": true, "order": 1 },
@@ -197,6 +203,7 @@
     {
       "id": "xiguan",
       "label": "好习惯",
+      "order": 7,
       "image": "images/xiguan.jpg",
       "playlist": [
         { "title": "刷牙歌", "src": "audio/xiguan/brush.mp3", "enabled": true, "order": 1 },
@@ -232,6 +239,7 @@
     {
       "id": "douxiao",
       "label": "逗你笑",
+      "order": 8,
       "image": "images/douxiao.jpg",
       "playlist": [
         { "title": "滑稽音效集", "src": "audio/douxiao/funny.mp3", "enabled": true, "order": 1 },
@@ -268,6 +276,7 @@
     {
       "id": "lingsheng",
       "label": "铃声",
+      "order": 9,
       "image": "images/lingsheng.jpg",
       "playlist": [
         { "title": "门铃声", "src": "audio/lingsheng/doorbell.mp3", "enabled": true, "order": 1 },
@@ -299,6 +308,7 @@
     {
       "id": "shengxiao",
       "label": "照相声效",
+      "order": 10,
       "image": "images/shengxiao.jpg",
       "playlist": [
         { "title": "咔嚓声", "src": "audio/shengxiao/camera.mp3", "enabled": true, "order": 1 },
@@ -330,6 +340,7 @@
     {
       "id": "sanzijing",
       "label": "三字经",
+      "order": 11,
       "image": "images/sanzijing.jpg",
       "playlist": [
         { "title": "三字经·上", "src": "audio/sanzijing/part1.mp3", "enabled": true, "order": 1 },
@@ -365,6 +376,7 @@
     {
       "id": "ziran",
       "label": "自然声音",
+      "order": 12,
       "image": "images/ziran.jpg",
       "playlist": [
         { "title": "鸟鸣声", "src": "audio/ziran/bird.mp3", "enabled": true, "order": 1 },
@@ -403,6 +415,7 @@
     {
       "id": "renwu",
       "label": "人物称谓",
+      "order": 13,
       "image": "images/renwu.jpg",
       "playlist": [
         { "title": "家庭成员", "src": "audio/renwu/family.mp3", "enabled": true, "order": 1 },
@@ -438,6 +451,7 @@
     {
       "id": "jiaotong",
       "label": "交通声音",
+      "order": 14,
       "image": "images/jiaotong.jpg",
       "playlist": [
         { "title": "汽车的声音", "src": "audio/jiaotong/car.mp3", "enabled": true, "order": 1 },
@@ -471,6 +485,7 @@
     {
       "id": "yueqi",
       "label": "乐器声音",
+      "order": 15,
       "image": "images/yueqi.jpg",
       "playlist": [
         { "title": "钢琴声", "src": "audio/yueqi/piano.mp3", "enabled": true, "order": 1 },
@@ -506,6 +521,7 @@
     {
       "id": "dongwu",
       "label": "动物叫声",
+      "order": 16,
       "image": "images/dongwu.jpg",
       "playlist": [
         { "title": "小狗的声音", "src": "audio/dongwu/dog.mp3", "enabled": true, "order": 1 },
