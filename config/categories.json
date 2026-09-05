@@ -128,7 +128,7 @@
     {
       "id": "english",
       "label": "学英语",
-      "enabled": true,
+      "enabled": false,
       "order": 4,
       "image": "images/english.jpg",
       "playlist": [
