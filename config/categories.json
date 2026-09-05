@@ -90,7 +90,7 @@
     {
       "id": "hudong",
       "label": "互动",
-      "enabled": true,
+      "enabled": false,
       "order": 3,
       "image": "images/hudong.jpg",
       "playlist": [
