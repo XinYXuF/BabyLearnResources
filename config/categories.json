@@ -5,7 +5,7 @@
     {
       "id": "erge",
       "label": "儿歌",
-      "enabled": true,
+      "enabled": false,
       "order": 1,
       "image": "images/erge.jpg",
       "playlist": [
@@ -175,7 +175,7 @@
     {
       "id": "yaolanqu",
       "label": "摇篮曲",
-      "enabled": true,
+      "enabled": false,
       "order": 6,
       "image": "images/yaolanqu.jpg",
       "playlist": [
