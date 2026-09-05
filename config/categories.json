@@ -1,10 +1,11 @@
 {
   "version": 3,
-  "remark": "宝宝认知小乐园分类播单配置。image 为相对本仓库的图片路径，src 为相对本仓库的音频路径，小程序端会自动拼接 Gitee raw 基地址。新增资源只需在 audio/ 或 images/ 放文件并在本文件加配置即可动态下发，无需改小程序代码。曲目级开关 enabled：缺省或 true 为启用，false 为下架（小程序端加载时不出现该曲目）。曲目级排序 order：数值（支持小数），加载时按从小到大排序，缺省按配置中的出现顺序；如需在 1 和 2 之间插入新曲目，order 填 1.5 即可，无需改动其他曲目。分类级排序 order：作用于分类在首页网格中的先后排列，规则同曲目级（数值升序、支持小数，缺省按配置中的出现顺序）。",
+  "remark": "宝宝认知小乐园分类播单配置。image 为相对本仓库的图片路径，src 为相对本仓库的音频路径，小程序端会自动拼接 Gitee raw 基地址。新增资源只需在 audio/ 或 images/ 放文件并在本文件加配置即可动态下发，无需改小程序代码。曲目级开关 enabled：缺省或 true 为启用，false 为下架（小程序端加载时不出现该曲目）。曲目级排序 order：数值（支持小数），加载时按从小到大排序，缺省按配置中的出现顺序；如需在 1 和 2 之间插入新曲目，order 填 1.5 即可，无需改动其他曲目。分类级开关 enabled：缺省或 true 为启用，false 为下架（整个分类在小程序端不出现）。分类级排序 order：作用于分类在首页网格中的先后排列，规则同曲目级（数值升序、支持小数，缺省按配置中的出现顺序）。",
   "categories": [
     {
       "id": "erge",
       "label": "儿歌",
+      "enabled": true,
       "order": 1,
       "image": "images/erge.jpg",
       "playlist": [
@@ -46,6 +47,7 @@
     {
       "id": "gushi",
       "label": "故事",
+      "enabled": true,
       "order": 2,
       "image": "images/gushi.jpg",
       "playlist": [
@@ -88,6 +90,7 @@
     {
       "id": "hudong",
       "label": "互动",
+      "enabled": true,
       "order": 3,
       "image": "images/hudong.jpg",
       "playlist": [
@@ -125,6 +128,7 @@
     {
       "id": "english",
       "label": "学英语",
+      "enabled": true,
       "order": 4,
       "image": "images/english.jpg",
       "playlist": [
@@ -134,6 +138,7 @@
     {
       "id": "number",
       "label": "数字",
+      "enabled": true,
       "order": 5,
       "image": "images/number.jpg",
       "playlist": [
@@ -170,6 +175,7 @@
     {
       "id": "yaolanqu",
       "label": "摇篮曲",
+      "enabled": true,
       "order": 6,
       "image": "images/yaolanqu.jpg",
       "playlist": [
@@ -203,6 +209,7 @@
     {
       "id": "xiguan",
       "label": "好习惯",
+      "enabled": true,
       "order": 7,
       "image": "images/xiguan.jpg",
       "playlist": [
@@ -239,6 +246,7 @@
     {
       "id": "douxiao",
       "label": "逗你笑",
+      "enabled": true,
       "order": 8,
       "image": "images/douxiao.jpg",
       "playlist": [
@@ -276,6 +284,7 @@
     {
       "id": "lingsheng",
       "label": "铃声",
+      "enabled": true,
       "order": 9,
       "image": "images/lingsheng.jpg",
       "playlist": [
@@ -308,6 +317,7 @@
     {
       "id": "shengxiao",
       "label": "照相声效",
+      "enabled": true,
       "order": 10,
       "image": "images/shengxiao.jpg",
       "playlist": [
@@ -340,6 +350,7 @@
     {
       "id": "sanzijing",
       "label": "三字经",
+      "enabled": true,
       "order": 11,
       "image": "images/sanzijing.jpg",
       "playlist": [
@@ -376,6 +387,7 @@
     {
       "id": "ziran",
       "label": "自然声音",
+      "enabled": true,
       "order": 12,
       "image": "images/ziran.jpg",
       "playlist": [
@@ -415,6 +427,7 @@
     {
       "id": "renwu",
       "label": "人物称谓",
+      "enabled": true,
       "order": 13,
       "image": "images/renwu.jpg",
       "playlist": [
@@ -451,6 +464,7 @@
     {
       "id": "jiaotong",
       "label": "交通声音",
+      "enabled": true,
       "order": 14,
       "image": "images/jiaotong.jpg",
       "playlist": [
@@ -485,6 +499,7 @@
     {
       "id": "yueqi",
       "label": "乐器声音",
+      "enabled": true,
       "order": 15,
       "image": "images/yueqi.jpg",
       "playlist": [
@@ -521,6 +536,7 @@
     {
       "id": "dongwu",
       "label": "动物叫声",
+      "enabled": true,
       "order": 16,
       "image": "images/dongwu.jpg",
       "playlist": [
