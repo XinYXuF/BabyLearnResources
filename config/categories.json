@@ -138,7 +138,7 @@
     {
       "id": "number",
       "label": "数字",
-      "enabled": true,
+      "enabled": false,
       "order": 5,
       "image": "images/number.jpg",
       "playlist": [
@@ -209,7 +209,7 @@
     {
       "id": "xiguan",
       "label": "好习惯",
-      "enabled": true,
+      "enabled": false,
       "order": 7,
       "image": "images/xiguan.jpg",
       "playlist": [
@@ -427,7 +427,7 @@
     {
       "id": "renwu",
       "label": "人物称谓",
-      "enabled": true,
+      "enabled": false,
       "order": 13,
       "image": "images/renwu.jpg",
       "playlist": [
