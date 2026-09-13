@@ -47,7 +47,7 @@
     {
       "id": "gushi",
       "label": "故事",
-      "enabled": true,
+      "enabled": false,
       "order": 2,
       "image": "images/gushi.jpg",
       "playlist": [
@@ -350,7 +350,7 @@
     {
       "id": "sanzijing",
       "label": "三字经",
-      "enabled": true,
+      "enabled": false,
       "order": 11,
       "image": "images/sanzijing.jpg",
       "playlist": [
