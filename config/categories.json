@@ -114,73 +114,73 @@
         {
           "title": "绕口令·四是四",
           "src": "audio/douxiao/raokouling1.mp3",
-          "enabled": true,
+          "enabled": false,
           "order": 18
         },
         {
           "title": "绕口令·吃葡萄",
           "src": "audio/douxiao/raokouling2.mp3",
-          "enabled": true,
+          "enabled": false,
           "order": 19
         },
         {
           "title": "绕口令·白石塔",
           "src": "audio/douxiao/raokouling3.mp3",
-          "enabled": true,
+          "enabled": false,
           "order": 20
         },
         {
           "title": "绕口令·高山藤铃",
           "src": "audio/douxiao/raokouling4.mp3",
-          "enabled": true,
+          "enabled": false,
           "order": 21
         },
         {
           "title": "绕口令·小花鼓",
           "src": "audio/douxiao/raokouling5.mp3",
-          "enabled": true,
+          "enabled": false,
           "order": 22
         },
         {
           "title": "绕口令·玲珑塔",
           "src": "audio/douxiao/raokouling6.mp3",
-          "enabled": true,
+          "enabled": false,
           "order": 23
         },
         {
           "title": "绕口令·兜装豆",
           "src": "audio/douxiao/raokouling7.mp3",
-          "enabled": true,
+          "enabled": false,
           "order": 24
         },
         {
           "title": "绕口令·九月九",
           "src": "audio/douxiao/raokouling8.mp3",
-          "enabled": true,
+          "enabled": false,
           "order": 25
         },
         {
           "title": "绕口令·喇嘛与哑巴",
           "src": "audio/douxiao/raokouling9.mp3",
-          "enabled": true,
+          "enabled": false,
           "order": 26
         },
         {
           "title": "绕口令·八百标兵",
           "src": "audio/douxiao/raokouling10.mp3",
-          "enabled": true,
+          "enabled": false,
           "order": 27
         },
         {
           "title": "绕口令·嘴和腿",
           "src": "audio/douxiao/raokouling11.mp3",
-          "enabled": true,
+          "enabled": false,
           "order": 28
         },
         {
           "title": "绕口令·老龙老农",
           "src": "audio/douxiao/raokouling12.mp3",
-          "enabled": true,
+          "enabled": false,
           "order": 29
         },
         {
@@ -210,7 +210,7 @@
         {
           "title": "约德尔",
           "src": "audio/douxiao/yodel.mp3",
-          "enabled": true,
+          "enabled": false,
           "order": 34
         },
         {
@@ -357,7 +357,7 @@
         {
           "title": "冰淇淋车音乐",
           "src": "audio/lingsheng/icecream.mp3",
-          "enabled": true,
+          "enabled": false,
           "order": 21
         },
         {
