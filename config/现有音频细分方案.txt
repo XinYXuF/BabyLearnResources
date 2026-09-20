@@ -1,0 +1,329 @@
+================================================================
+宝宝认知小乐园 · 现有音频细分方案（7 分类 → 18 分类）
+================================================================
+状态：方案稿，尚未写入 categories.json，待确认后落地
+依据：内容红线.md（个人主体仅允许无词、无曲、无朗读的纯声音）
+原则：仅对现有 216 条真实音频重新归类，不虚构曲目、不新增音频文件
+合计：启用 201 条；按红线下架 15 条（绕口令×12、约德尔、圣诞铃铛、冰淇淋车音乐）
+首页效果：每行 4 格 × 18 格 ≈ 5 行（现状 7 格 2 行，界面更饱满）
+
+----------------------------------------------------------------
+01 农场动物（id: nongchang）启用 12 条 | 封面：需新生成
+----------------------------------------------------------------
+小狗汪汪叫        audio/dongwu/dog.mp3
+小猫喵喵叫        audio/dongwu/cat.mp3
+小鸭嘎嘎叫        audio/dongwu/duck.mp3
+小牛哞哞叫        audio/dongwu/cow.mp3
+小羊咩咩叫        audio/dongwu/sheep.mp3
+小鸡叽叽叫        audio/dongwu/chicken.mp3
+大公鸡打鸣        audio/dongwu/rooster.mp3
+小猪哼哼叫        audio/dongwu/pig.mp3
+小驴叫            audio/dongwu/donkey.mp3
+小马嘶鸣          audio/dongwu/horse.mp3
+小鹅叫            audio/dongwu/goose.mp3
+火鸡叫            audio/dongwu/turkey.mp3
+
+----------------------------------------------------------------
+02 野生动物（id: yesheng）启用 17 条 | 封面：需新生成
+----------------------------------------------------------------
+小猴子叫          audio/dongwu/monkey.mp3
+大象叫            audio/dongwu/elephant.mp3
+大狮子吼叫        audio/dongwu/lion.mp3
+大老虎吼叫        audio/dongwu/tiger.mp3
+大灰狼嚎叫        audio/dongwu/wolf.mp3
+小熊叫声          audio/dongwu/bear.mp3
+蛇的嘶嘶声        audio/dongwu/snake.mp3
+狐狸叫声          audio/dongwu/fox.mp3
+长颈鹿叫声        audio/dongwu/giraffe.mp3
+猎豹叫声          audio/dongwu/cheetah.mp3
+河马叫声          audio/dongwu/hippo.mp3
+鳄鱼叫声          audio/dongwu/crocodile.mp3
+松鼠叫声          audio/dongwu/squirrel.mp3
+小仓鼠叫声        audio/dongwu/hamster.mp3
+蝙蝠叫声          audio/dongwu/bat.mp3
+恐龙吼叫          audio/dongwu/dinosaur.mp3
+小老鼠吱吱叫      audio/dongwu/mouse.mp3
+
+----------------------------------------------------------------
+03 飞鸟世界（id: feiniao）启用 10 条 | 封面：需新生成
+----------------------------------------------------------------
+鹦鹉学舌          audio/dongwu/parrot.mp3
+猫头鹰咕咕叫      audio/dongwu/owl.mp3
+大雁叫声          audio/dongwu/dayan.mp3
+企鹅叫声          audio/dongwu/penguin.mp3
+鸟鸣声            audio/ziran/bird.mp3
+清晨鸟语          audio/ziran/dawn.mp3
+海鸥鸣叫声        audio/ziran/seagull.mp3
+布谷鸟叫声        audio/ziran/cuckoo-bird.mp3
+鸽子咕咕声        audio/ziran/dove.mp3
+啄木鸟敲树声      audio/ziran/woodpecker.mp3
+
+----------------------------------------------------------------
+04 海洋动物（id: haiyang）启用 4 条 | 封面：需新生成
+----------------------------------------------------------------
+海豚叫声          audio/dongwu/dolphin.mp3
+海狮叫声          audio/dongwu/sealion.mp3
+鲸鱼叫声          audio/ziran/whale.mp3
+深海之声          audio/ziran/deepsea.mp3
+
+----------------------------------------------------------------
+05 昆虫蛙鸣（id: kunchong）启用 6 条 | 封面：需新生成
+----------------------------------------------------------------
+小蜜蜂嗡嗡        audio/dongwu/bee.mp3
+小青蛙呱呱        audio/dongwu/frog.mp3
+虫鸣声            audio/ziran/insect.mp3
+蝉鸣声            audio/ziran/cicada.mp3
+夜晚蛙鸣          audio/ziran/night-frogs.mp3
+夏夜合奏          audio/ziran/summernight.mp3
+
+----------------------------------------------------------------
+06 天气气象（id: tianqi）启用 9 条 | 封面：需新生成
+----------------------------------------------------------------
+雨声              audio/ziran/rain.mp3
+风声              audio/ziran/wind.mp3
+雷声              audio/ziran/thunder.mp3
+暴风雨声          audio/ziran/storm.mp3
+冰雹声            audio/ziran/hail.mp3
+暴风雪            audio/ziran/blizzard.mp3
+夏日雷阵雨        audio/ziran/thundershower.mp3
+雨打屋檐          audio/ziran/rain-roof.mp3
+雨打帐篷          audio/ziran/rain-tent.mp3
+
+----------------------------------------------------------------
+07 山林水间（id: shanlin）启用 12 条 | 封面：复用 images/ziran.jpg
+----------------------------------------------------------------
+流水声            audio/ziran/water.mp3
+瀑布声            audio/ziran/waterfall.mp3
+森林之声          audio/ziran/forest.mp3
+篝火声            audio/ziran/fire.mp3
+树叶沙沙声        audio/ziran/leaves.mp3
+山洞滴水声        audio/ziran/drip.mp3
+冰面开裂声        audio/ziran/icecrack.mp3
+竹林风            audio/ziran/bamboo.mp3
+春溪解冻          audio/ziran/springcreek.mp3
+松涛              audio/ziran/wind-pines.mp3
+山谷回声          audio/ziran/echovalley.mp3
+海浪声            audio/ziran/waves.mp3
+
+----------------------------------------------------------------
+08 陆地交通（id: ludi）启用 19 条 | 封面：复用 images/jiaotong.jpg
+----------------------------------------------------------------
+汽车的声音        audio/jiaotong/car.mp3
+火车的声音        audio/jiaotong/train.mp3
+救护车声音        audio/jiaotong/ambulance.mp3
+警车声音          audio/jiaotong/police.mp3
+摩托车声音        audio/jiaotong/motorcycle.mp3
+拖拉机声音        audio/jiaotong/tractor.mp3
+地铁声音          audio/jiaotong/subway.mp3
+公交车声音        audio/jiaotong/bus.mp3
+消防车声音        audio/jiaotong/firetruck.mp3
+有轨电车          audio/jiaotong/tram.mp3
+火车轮轨声        audio/jiaotong/trainwheels.mp3
+卡车声音          audio/jiaotong/truck.mp3
+高铁声音          audio/jiaotong/hsr.mp3
+汽车喇叭声        audio/jiaotong/horn.mp3
+马蹄声            audio/jiaotong/hoof.mp3
+三轮车铃声        audio/jiaotong/tricycle.mp3
+雪地摩托          audio/jiaotong/snowmobile.mp3
+滑板车            audio/jiaotong/scooter.mp3
+铁路道口警报      audio/jiaotong/railway-crossing.mp3
+
+----------------------------------------------------------------
+09 空中水上（id: kongshui）启用 8 条 | 封面：需新生成
+----------------------------------------------------------------
+轮船汽笛          audio/jiaotong/ship.mp3
+飞机起飞          audio/jiaotong/plane.mp3
+直升机            audio/jiaotong/helicopter.mp3
+火箭发射          audio/jiaotong/rocket.mp3
+快艇              audio/jiaotong/speedboat.mp3
+热气球            audio/jiaotong/balloon.mp3
+缆车              audio/jiaotong/cablecar.mp3
+龙舟鼓声          audio/jiaotong/dragonboat.mp3
+
+----------------------------------------------------------------
+10 铃铛钟声（id: lingdang）启用 12 + 下架 1 | 封面：复用 images/lingsheng.jpg
+----------------------------------------------------------------
+门铃声            audio/lingsheng/doorbell.mp3
+自行车铃声        audio/lingsheng/bicycle.mp3
+学校铃声          audio/lingsheng/school-bell.mp3
+教堂钟声          audio/lingsheng/church-bell.mp3
+风铃声            audio/lingsheng/chime.mp3
+布谷鸟钟报时      audio/lingsheng/cuckoo.mp3
+奶牛铃铛          audio/lingsheng/cowbell.mp3
+三角铁声          audio/lingsheng/triangle.mp3
+婴儿摇铃声        audio/lingsheng/rattle.mp3
+店铺门铃          audio/lingsheng/shopbell.mp3
+下课铃声          audio/lingsheng/recessbell.mp3
+风铃              audio/lingsheng/windchime.mp3
+圣诞铃铛          audio/lingsheng/jinglebell.mp3   [下架：带旋律铃声]
+
+----------------------------------------------------------------
+11 家电提示音（id: jiadian）启用 10 + 下架 1 | 封面：需新生成
+----------------------------------------------------------------
+电话铃声          audio/lingsheng/phone.mp3
+闹钟铃声          audio/lingsheng/alarm.mp3
+时钟滴答声        audio/lingsheng/tick.mp3
+电梯到达提示音    audio/lingsheng/elevator.mp3
+手机震动声        audio/lingsheng/vibrate.mp3
+游戏投币声        audio/lingsheng/coin.mp3
+计算器按键音      audio/lingsheng/calculator.mp3
+电脑开机音        audio/lingsheng/bootup.mp3
+消息提示音        audio/lingsheng/notification.mp3
+电子闹钟          audio/lingsheng/alarm-digital.mp3
+冰淇淋车音乐      audio/lingsheng/icecream.mp3     [下架：旋律曲目]
+
+----------------------------------------------------------------
+12 厨房声音（id: chufang）启用 3 条 | 封面：需新生成（后续补录音扩充）
+----------------------------------------------------------------
+微波炉提示音      audio/lingsheng/microwave.mp3
+烤面包机弹出声    audio/lingsheng/toaster.mp3
+水壶烧开哨音      audio/lingsheng/kettle.mp3
+
+----------------------------------------------------------------
+13 搞笑音效（id: gaoxiao）启用 17 条 | 封面：复用 images/douxiao.jpg
+----------------------------------------------------------------
+滑稽音效集        audio/douxiao/funny.mp3
+滑稽口哨          audio/douxiao/whistle.mp3
+弹簧音效          audio/douxiao/boing.mp3
+小丑喇叭          audio/douxiao/clown-horn.mp3
+滑音口哨          audio/douxiao/slide-whistle.mp3
+吱吱玩具声        audio/douxiao/squeak.mp3
+卡祖笛            audio/douxiao/kazoo.mp3
+吹泡泡声          audio/douxiao/bubble.mp3
+派对喇叭          audio/douxiao/partyhorn.mp3
+放屁坐垫          audio/douxiao/whoopee.mp3
+滑稽长号          audio/douxiao/wahwah.mp3
+小鸭哨            audio/douxiao/duckwhistle.mp3
+滑稽下滑音        audio/douxiao/slidedown.mp3
+噗噗声            audio/douxiao/raspberry.mp3
+噔噔噔            audio/douxiao/tada.mp3
+啪嗒              audio/douxiao/splat.mp3
+嘟嘟              audio/douxiao/toot.mp3
+
+----------------------------------------------------------------
+14 人体趣味声（id: renti）启用 6 + 下架 13 | 封面：需新生成
+----------------------------------------------------------------
+打喷嚏音效        audio/douxiao/sneeze.mp3
+咯咯笑声          audio/douxiao/laugh.mp3
+打嗝音效          audio/douxiao/hiccup.mp3
+打呼噜音效        audio/douxiao/snore.mp3
+咯咯笑            audio/douxiao/giggle.mp3
+打嗝              audio/douxiao/burp.mp3
+绕口令1-12        audio/douxiao/raokouling1-12.mp3 [下架：有声读物红线]
+约德尔            audio/douxiao/yodel.mp3          [下架：带旋律演唱]
+
+----------------------------------------------------------------
+15 照相咔嚓（id: zhaoxiang）启用 13 条 | 封面：复用 images/shengxiao.jpg
+----------------------------------------------------------------
+咔嚓声            audio/shengxiao/camera.mp3
+快门连拍          audio/shengxiao/shutter.mp3
+拍立得快门        audio/shengxiao/polaroid.mp3
+手机快门声        audio/shengxiao/phone.mp3
+大头贴快门        audio/shengxiao/photobooth.mp3
+闪光灯爆响        audio/shengxiao/flashpop.mp3
+连拍快门          audio/shengxiao/shutter-burst.mp3
+一次性相机        audio/shengxiao/disposable.mp3
+自拍提示音        audio/shengxiao/selftimer.mp3
+截屏提示音        audio/shengxiao/screenshot.mp3
+闪光灯连闪        audio/shengxiao/screenflash.mp3
+闪光灯充电声      audio/shengxiao/flash.mp3
+老式闪光灯泡声    audio/shengxiao/flashbulb.mp3
+
+----------------------------------------------------------------
+16 影音设备（id: yingyin）启用 12 条 | 封面：需新生成
+----------------------------------------------------------------
+拍照倒计时        audio/shengxiao/countdown.mp3
+胶片卷片声        audio/shengxiao/film.mp3
+对焦提示音        audio/shengxiao/record-beep.mp3
+镜头变焦声        audio/shengxiao/zoom.mp3
+胶片过片声        audio/shengxiao/rewind.mp3
+老式摄像机        audio/shengxiao/camcorder.mp3
+马达卷片声        audio/shengxiao/motorwind.mp3
+相机上弦声        audio/shengxiao/windup.mp3
+幻灯片换片声      audio/shengxiao/slideshow.mp3
+录像提示音        audio/shengxiao/recbeep.mp3
+存储卡弹出声      audio/shengxiao/sdcard.mp3
+镜头盖开合声      audio/shengxiao/lenscap.mp3
+
+----------------------------------------------------------------
+17 敲敲打打（id: qiaoda）启用 10 条 | 封面：需新生成
+----------------------------------------------------------------
+小鼓声            audio/yueqi/drum.mp3
+木琴声            audio/yueqi/xylophone.mp3
+铃鼓声            audio/yueqi/tambourine.mp3
+锣声              audio/yueqi/gong.mp3
+沙锤声            audio/yueqi/shaker.mp3
+编钟声            audio/yueqi/bianzhong.mp3
+木鱼声            audio/yueqi/muyu.mp3
+钢鼓              audio/yueqi/steel-drum.mp3
+颤音琴            audio/yueqi/vibraphone.mp3
+响板              audio/yueqi/castanets.mp3
+
+----------------------------------------------------------------
+18 乐器音色（id: yueqi）启用 21 条 | 封面：复用 images/yueqi.jpg
+（红线要求：单音音色示范，连续旋律即越线，落地前人工复核）
+----------------------------------------------------------------
+钢琴声            audio/yueqi/piano.mp3
+小提琴声          audio/yueqi/violin.mp3
+小号声            audio/yueqi/trumpet.mp3
+吉他声            audio/yueqi/guitar.mp3
+笛子声            audio/yueqi/flute.mp3
+萨克斯声          audio/yueqi/saxophone.mp3
+口琴声            audio/yueqi/harmonica.mp3
+大提琴声          audio/yueqi/cello.mp3
+竖琴声            audio/yueqi/harp.mp3
+手风琴声          audio/yueqi/accordion.mp3
+长号声            audio/yueqi/trombone.mp3
+风笛声            audio/yueqi/bagpipe.mp3
+卡林巴琴声        audio/yueqi/kalimba.mp3
+尤克里里扫弦      audio/yueqi/ukulele.mp3
+二胡声            audio/yueqi/erhu.mp3
+排箫声            audio/yueqi/panflute.mp3
+古筝声            audio/yueqi/guzheng.mp3
+唢呐声            audio/yueqi/suona.mp3
+葫芦丝声          audio/yueqi/hulusi.mp3
+琵琶声            audio/yueqi/pipa.mp3
+扬琴声            audio/yueqi/yangqin.mp3
+
+================================================================
+附录 A：下架清单（enabled:false，共 15 条）及原因
+================================================================
+绕口令1-12（逗你笑）  有声读物红线：语言讲述为主
+约德尔（逗你笑）      音乐服务红线：带旋律演唱
+圣诞铃铛（铃声）      带旋律的铃声
+冰淇淋车音乐（铃声）  旋律曲目
+
+================================================================
+附录 B：边界曲目人工听审清单（有旋律/人声即下架）
+================================================================
+滑稽口哨、滑音口哨、卡祖笛、滑稽长号、噔噔噔（搞笑音效）
+电脑开机音、电话铃声、教堂钟声、风铃声、风铃（家电/铃铛）
+拍照倒计时（若为 TTS 数数则下架）、鹦鹉（若含模仿人语则下架）
+尤克里里扫弦、卡林巴、编钟、古筝、竖琴（乐器音色）
+
+================================================================
+附录 C：封面图策略
+================================================================
+复用现有 6 张：shanlin→ziran.jpg、ludi→jiaotong.jpg、lingdang→lingsheng.jpg、
+gaoxiao→douxiao.jpg、zhaoxiang→shengxiao.jpg、yueqi→yueqi.jpg
+需新生成 12 张：nongchang、yesheng、feiniao、haiyang、kunchong、tianqi、
+kongshui、jiadian、chufang、renti、yingyin、qiaoda
+
+================================================================
+附录 D：补真实音频后才可开放的新分类（禁止虚构曲目）
+================================================================
+厨房扩充：炒菜滋啦、切菜、爆米花、开汽水、冰块入杯
+家居声音：洗衣机、吸尘器、吹风机、冲马桶、拉链、钥匙开锁
+工具工程：锤子、锯木、电钻、链锯、割草机、挖掘机
+运动游乐：拍球、运球、跳绳、保龄球、蹦床、滑梯、秋千
+身体声音：心跳、肚子咕咕、响指、拍手、跺脚
+节日现象：鞭炮单响、烟花爆响、划火柴、气球爆炸
+版权来源限：自制录音 / AI 生成 / CC0（红线第四节）
+
+================================================================
+附录 E：落地说明
+================================================================
+1. 本方案仅重新归类，不移动、不修改任何音频文件
+2. 落地时改写 BabyLearnResources/config/categories.json（version 递增）
+3. local-categories.js 为脚本自动生成、禁止手改，离线包按既有流程同步
+4. 新分类封面图存入 BabyLearnResources/images/ 后配置方可引用

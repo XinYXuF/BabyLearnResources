@@ -1,0 +1,279 @@
+宝宝认知小乐园 · 声音分类清单
+====================================================
+生成时间：2026-09-20 18:58
+数据来源：config/categories.json (version=5)
+说明：本文件为音频分类与曲目的纯文本快照，便于人工核对与审计。
+
+汇总：共 7 个分类，216 条曲目（启用 202 / 已下架 14）
+
+----------------------------------------------------
+分类 1：逗你笑  (douxiao)
+  图标：images/douxiao.jpg
+  状态：启用
+  曲目：36 条（启用 23 / 下架 13）
+  ------------------------------------------------
+     1. 滑稽音效集              audio/douxiao/funny.mp3                    [启用]
+     2. 打喷嚏音效              audio/douxiao/sneeze.mp3                   [启用]
+     3. 咯咯笑声               audio/douxiao/laugh.mp3                    [启用]
+     4. 滑稽口哨               audio/douxiao/whistle.mp3                  [启用]
+     5. 弹簧音效               audio/douxiao/boing.mp3                    [启用]
+     6. 小丑喇叭               audio/douxiao/clown-horn.mp3               [启用]
+     7. 打嗝音效               audio/douxiao/hiccup.mp3                   [启用]
+     8. 滑音口哨               audio/douxiao/slide-whistle.mp3            [启用]
+     9. 打呼噜音效              audio/douxiao/snore.mp3                    [启用]
+    10. 吱吱玩具声              audio/douxiao/squeak.mp3                   [启用]
+    11. 卡祖笛                audio/douxiao/kazoo.mp3                    [启用]
+    12. 吹泡泡声               audio/douxiao/bubble.mp3                   [启用]
+    13. 派对喇叭               audio/douxiao/partyhorn.mp3                [启用]
+    14. 放屁坐垫               audio/douxiao/whoopee.mp3                  [启用]
+    15. 滑稽长号               audio/douxiao/wahwah.mp3                   [启用]
+    16. 小鸭哨                audio/douxiao/duckwhistle.mp3              [启用]
+    17. 滑稽下滑音              audio/douxiao/slidedown.mp3                [启用]
+    18. 绕口令·四是四            audio/douxiao/raokouling1.mp3              [下架]
+    19. 绕口令·吃葡萄            audio/douxiao/raokouling2.mp3              [下架]
+    20. 绕口令·白石塔            audio/douxiao/raokouling3.mp3              [下架]
+    21. 绕口令·高山藤铃           audio/douxiao/raokouling4.mp3              [下架]
+    22. 绕口令·小花鼓            audio/douxiao/raokouling5.mp3              [下架]
+    23. 绕口令·玲珑塔            audio/douxiao/raokouling6.mp3              [下架]
+    24. 绕口令·兜装豆            audio/douxiao/raokouling7.mp3              [下架]
+    25. 绕口令·九月九            audio/douxiao/raokouling8.mp3              [下架]
+    26. 绕口令·喇嘛与哑巴          audio/douxiao/raokouling9.mp3              [下架]
+    27. 绕口令·八百标兵           audio/douxiao/raokouling10.mp3             [下架]
+    28. 绕口令·嘴和腿            audio/douxiao/raokouling11.mp3             [下架]
+    29. 绕口令·老龙老农           audio/douxiao/raokouling12.mp3             [下架]
+    30. 噗噗声                audio/douxiao/raspberry.mp3                [启用]
+    31. 咯咯笑                audio/douxiao/giggle.mp3                   [启用]
+    32. 打嗝                 audio/douxiao/burp.mp3                     [启用]
+    33. 噔噔噔                audio/douxiao/tada.mp3                     [启用]
+    34. 约德尔                audio/douxiao/yodel.mp3                    [下架]
+    35. 啪嗒                 audio/douxiao/splat.mp3                    [启用]
+    36. 嘟嘟                 audio/douxiao/toot.mp3                     [启用]
+
+----------------------------------------------------
+分类 2：铃声  (lingsheng)
+  图标：images/lingsheng.jpg
+  状态：启用
+  曲目：27 条（启用 26 / 下架 1）
+  ------------------------------------------------
+     1. 门铃声                audio/lingsheng/doorbell.mp3               [启用]
+     2. 电话铃声               audio/lingsheng/phone.mp3                  [启用]
+     3. 闹钟铃声               audio/lingsheng/alarm.mp3                  [启用]
+     4. 自行车铃声              audio/lingsheng/bicycle.mp3                [启用]
+     5. 学校铃声               audio/lingsheng/school-bell.mp3            [启用]
+     6. 教堂钟声               audio/lingsheng/church-bell.mp3            [启用]
+     7. 微波炉提示音             audio/lingsheng/microwave.mp3              [启用]
+     8. 时钟滴答声              audio/lingsheng/tick.mp3                   [启用]
+     9. 风铃声                audio/lingsheng/chime.mp3                  [启用]
+    10. 布谷鸟钟报时             audio/lingsheng/cuckoo.mp3                 [启用]
+    11. 奶牛铃铛               audio/lingsheng/cowbell.mp3                [启用]
+    12. 电梯到达提示音            audio/lingsheng/elevator.mp3               [启用]
+    13. 烤面包机弹出声            audio/lingsheng/toaster.mp3                [启用]
+    14. 圣诞铃铛               audio/lingsheng/jinglebell.mp3             [启用]
+    15. 三角铁声               audio/lingsheng/triangle.mp3               [启用]
+    16. 手机震动声              audio/lingsheng/vibrate.mp3                [启用]
+    17. 水壶烧开哨音             audio/lingsheng/kettle.mp3                 [启用]
+    18. 婴儿摇铃声              audio/lingsheng/rattle.mp3                 [启用]
+    19. 店铺门铃               audio/lingsheng/shopbell.mp3               [启用]
+    20. 游戏投币声              audio/lingsheng/coin.mp3                   [启用]
+    21. 冰淇淋车音乐             audio/lingsheng/icecream.mp3               [下架]
+    22. 下课铃声               audio/lingsheng/recessbell.mp3             [启用]
+    23. 计算器按键音             audio/lingsheng/calculator.mp3             [启用]
+    24. 电脑开机音              audio/lingsheng/bootup.mp3                 [启用]
+    25. 风铃                 audio/lingsheng/windchime.mp3              [启用]
+    26. 消息提示音              audio/lingsheng/notification.mp3           [启用]
+    27. 电子闹钟               audio/lingsheng/alarm-digital.mp3          [启用]
+
+----------------------------------------------------
+分类 3：照相声效  (shengxiao)
+  图标：images/shengxiao.jpg
+  状态：启用
+  曲目：25 条（启用 25 / 下架 0）
+  ------------------------------------------------
+     1. 咔嚓声                audio/shengxiao/camera.mp3                 [启用]
+     2. 拍照倒计时              audio/shengxiao/countdown.mp3              [启用]
+     3. 快门连拍               audio/shengxiao/shutter.mp3                [启用]
+     4. 胶片卷片声              audio/shengxiao/film.mp3                   [启用]
+     5. 拍立得快门              audio/shengxiao/polaroid.mp3               [启用]
+     6. 手机快门声              audio/shengxiao/phone.mp3                  [启用]
+     7. 对焦提示音              audio/shengxiao/record-beep.mp3            [启用]
+     8. 闪光灯充电声             audio/shengxiao/flash.mp3                  [启用]
+     9. 镜头变焦声              audio/shengxiao/zoom.mp3                   [启用]
+    10. 胶片过片声              audio/shengxiao/rewind.mp3                 [启用]
+    11. 一次性相机              audio/shengxiao/disposable.mp3             [启用]
+    12. 老式摄像机              audio/shengxiao/camcorder.mp3              [启用]
+    13. 大头贴快门              audio/shengxiao/photobooth.mp3             [启用]
+    14. 闪光灯爆响              audio/shengxiao/flashpop.mp3               [启用]
+    15. 马达卷片声              audio/shengxiao/motorwind.mp3              [启用]
+    16. 自拍提示音              audio/shengxiao/selftimer.mp3              [启用]
+    17. 截屏提示音              audio/shengxiao/screenshot.mp3             [启用]
+    18. 闪光灯连闪              audio/shengxiao/screenflash.mp3            [启用]
+    19. 相机上弦声              audio/shengxiao/windup.mp3                 [启用]
+    20. 幻灯片换片声             audio/shengxiao/slideshow.mp3              [启用]
+    21. 录像提示音              audio/shengxiao/recbeep.mp3                [启用]
+    22. 存储卡弹出声             audio/shengxiao/sdcard.mp3                 [启用]
+    23. 老式闪光灯泡声            audio/shengxiao/flashbulb.mp3              [启用]
+    24. 镜头盖开合声             audio/shengxiao/lenscap.mp3                [启用]
+    25. 连拍快门               audio/shengxiao/shutter-burst.mp3          [启用]
+
+----------------------------------------------------
+分类 4：自然声音  (ziran)
+  图标：images/ziran.jpg
+  状态：启用
+  曲目：33 条（启用 33 / 下架 0）
+  ------------------------------------------------
+     1. 鸟鸣声                audio/ziran/bird.mp3                       [启用]
+     2. 雨声                 audio/ziran/rain.mp3                       [启用]
+     3. 流水声                audio/ziran/water.mp3                      [启用]
+     4. 风声                 audio/ziran/wind.mp3                       [启用]
+     5. 雷声                 audio/ziran/thunder.mp3                    [启用]
+     6. 虫鸣声                audio/ziran/insect.mp3                     [启用]
+     7. 蝉鸣声                audio/ziran/cicada.mp3                     [启用]
+     8. 海浪声                audio/ziran/waves.mp3                      [启用]
+     9. 瀑布声                audio/ziran/waterfall.mp3                  [启用]
+    10. 森林之声               audio/ziran/forest.mp3                     [启用]
+    11. 篝火声                audio/ziran/fire.mp3                       [启用]
+    12. 暴风雨声               audio/ziran/storm.mp3                      [启用]
+    13. 夜晚蛙鸣               audio/ziran/night-frogs.mp3                [启用]
+    14. 雨打屋檐               audio/ziran/rain-roof.mp3                  [启用]
+    15. 树叶沙沙声              audio/ziran/leaves.mp3                     [启用]
+    16. 海鸥鸣叫声              audio/ziran/seagull.mp3                    [启用]
+    17. 布谷鸟叫声              audio/ziran/cuckoo-bird.mp3                [启用]
+    18. 鸽子咕咕声              audio/ziran/dove.mp3                       [启用]
+    19. 鲸鱼叫声               audio/ziran/whale.mp3                      [启用]
+    20. 啄木鸟敲树声             audio/ziran/woodpecker.mp3                 [启用]
+    21. 山洞滴水声              audio/ziran/drip.mp3                       [启用]
+    22. 冰雹声                audio/ziran/hail.mp3                       [启用]
+    23. 冰面开裂声              audio/ziran/icecrack.mp3                   [启用]
+    24. 暴风雪                audio/ziran/blizzard.mp3                   [启用]
+    25. 清晨鸟语               audio/ziran/dawn.mp3                       [启用]
+    26. 夏夜合奏               audio/ziran/summernight.mp3                [启用]
+    27. 春溪解冻               audio/ziran/springcreek.mp3                [启用]
+    28. 竹林风                audio/ziran/bamboo.mp3                     [启用]
+    29. 夏日雷阵雨              audio/ziran/thundershower.mp3              [启用]
+    30. 山谷回声               audio/ziran/echovalley.mp3                 [启用]
+    31. 深海之声               audio/ziran/deepsea.mp3                    [启用]
+    32. 雨打帐篷               audio/ziran/rain-tent.mp3                  [启用]
+    33. 松涛                 audio/ziran/wind-pines.mp3                 [启用]
+
+----------------------------------------------------
+分类 5：交通声音  (jiaotong)
+  图标：images/jiaotong.jpg
+  状态：启用
+  曲目：27 条（启用 27 / 下架 0）
+  ------------------------------------------------
+     1. 汽车的声音              audio/jiaotong/car.mp3                     [启用]
+     2. 火车的声音              audio/jiaotong/train.mp3                   [启用]
+     3. 救护车的声音             audio/jiaotong/ambulance.mp3               [启用]
+     4. 警车的声音              audio/jiaotong/police.mp3                  [启用]
+     5. 轮船的声音              audio/jiaotong/ship.mp3                    [启用]
+     6. 飞机的声音              audio/jiaotong/plane.mp3                   [启用]
+     7. 直升机的声音             audio/jiaotong/helicopter.mp3              [启用]
+     8. 摩托车的声音             audio/jiaotong/motorcycle.mp3              [启用]
+     9. 拖拉机的声音             audio/jiaotong/tractor.mp3                 [启用]
+    10. 地铁进站声              audio/jiaotong/subway.mp3                  [启用]
+    11. 公交车的声音             audio/jiaotong/bus.mp3                     [启用]
+    12. 消防车的声音             audio/jiaotong/firetruck.mp3               [启用]
+    13. 有轨电车的声音            audio/jiaotong/tram.mp3                    [启用]
+    14. 火车轨道咣当声            audio/jiaotong/trainwheels.mp3             [启用]
+    15. 大卡车的声音             audio/jiaotong/truck.mp3                   [启用]
+    16. 高铁的声音              audio/jiaotong/hsr.mp3                     [启用]
+    17. 汽车喇叭声              audio/jiaotong/horn.mp3                    [启用]
+    18. 马蹄声                audio/jiaotong/hoof.mp3                    [启用]
+    19. 火箭发射的声音            audio/jiaotong/rocket.mp3                  [启用]
+    20. 快艇的声音              audio/jiaotong/speedboat.mp3               [启用]
+    21. 热气球的声音             audio/jiaotong/balloon.mp3                 [启用]
+    22. 缆车的声音              audio/jiaotong/cablecar.mp3                [启用]
+    23. 三轮车的声音             audio/jiaotong/tricycle.mp3                [启用]
+    24. 雪地摩托的声音            audio/jiaotong/snowmobile.mp3              [启用]
+    25. 滑板车的声音             audio/jiaotong/scooter.mp3                 [启用]
+    26. 龙舟鼓声               audio/jiaotong/dragonboat.mp3              [启用]
+    27. 铁路道口警报             audio/jiaotong/railway-crossing.mp3        [启用]
+
+----------------------------------------------------
+分类 6：乐器声音  (yueqi)
+  图标：images/yueqi.jpg
+  状态：启用
+  曲目：31 条（启用 31 / 下架 0）
+  ------------------------------------------------
+     1. 钢琴声                audio/yueqi/piano.mp3                      [启用]
+     2. 小提琴声               audio/yueqi/violin.mp3                     [启用]
+     3. 小鼓声                audio/yueqi/drum.mp3                       [启用]
+     4. 小号声                audio/yueqi/trumpet.mp3                    [启用]
+     5. 吉他声                audio/yueqi/guitar.mp3                     [启用]
+     6. 笛子声                audio/yueqi/flute.mp3                      [启用]
+     7. 萨克斯声               audio/yueqi/saxophone.mp3                  [启用]
+     8. 木琴声                audio/yueqi/xylophone.mp3                  [启用]
+     9. 口琴声                audio/yueqi/harmonica.mp3                  [启用]
+    10. 大提琴声               audio/yueqi/cello.mp3                      [启用]
+    11. 竖琴声                audio/yueqi/harp.mp3                       [启用]
+    12. 手风琴声               audio/yueqi/accordion.mp3                  [启用]
+    13. 铃鼓声                audio/yueqi/tambourine.mp3                 [启用]
+    14. 长号声                audio/yueqi/trombone.mp3                   [启用]
+    15. 风笛声                audio/yueqi/bagpipe.mp3                    [启用]
+    16. 卡林巴琴声              audio/yueqi/kalimba.mp3                    [启用]
+    17. 尤克里里扫弦             audio/yueqi/ukulele.mp3                    [启用]
+    18. 二胡声                audio/yueqi/erhu.mp3                       [启用]
+    19. 锣声                 audio/yueqi/gong.mp3                       [启用]
+    20. 沙锤声                audio/yueqi/shaker.mp3                     [启用]
+    21. 编钟声                audio/yueqi/bianzhong.mp3                  [启用]
+    22. 排箫声                audio/yueqi/panflute.mp3                   [启用]
+    23. 古筝声                audio/yueqi/guzheng.mp3                    [启用]
+    24. 唢呐声                audio/yueqi/suona.mp3                      [启用]
+    25. 葫芦丝声               audio/yueqi/hulusi.mp3                     [启用]
+    26. 木鱼声                audio/yueqi/muyu.mp3                       [启用]
+    27. 琵琶声                audio/yueqi/pipa.mp3                       [启用]
+    28. 扬琴声                audio/yueqi/yangqin.mp3                    [启用]
+    29. 钢鼓                 audio/yueqi/steel-drum.mp3                 [启用]
+    30. 颤音琴                audio/yueqi/vibraphone.mp3                 [启用]
+    31. 响板                 audio/yueqi/castanets.mp3                  [启用]
+
+----------------------------------------------------
+分类 7：动物叫声  (dongwu)
+  图标：images/dongwu.jpg
+  状态：启用
+  曲目：37 条（启用 37 / 下架 0）
+  ------------------------------------------------
+     1. 小狗的声音              audio/dongwu/dog.mp3                       [启用]
+     2. 小猫的声音              audio/dongwu/cat.mp3                       [启用]
+     3. 小鸭的声音              audio/dongwu/duck.mp3                      [启用]
+     4. 小牛的声音              audio/dongwu/cow.mp3                       [启用]
+     5. 小羊的声音              audio/dongwu/sheep.mp3                     [启用]
+     6. 小鸡的声音              audio/dongwu/chicken.mp3                   [启用]
+     7. 大公鸡的声音             audio/dongwu/rooster.mp3                   [启用]
+     8. 小青蛙的声音             audio/dongwu/frog.mp3                      [启用]
+     9. 小蜜蜂的声音             audio/dongwu/bee.mp3                       [启用]
+    10. 小猪的声音              audio/dongwu/pig.mp3                       [启用]
+    11. 小猴子的声音             audio/dongwu/monkey.mp3                    [启用]
+    12. 大象的声音              audio/dongwu/elephant.mp3                  [启用]
+    13. 大狮子的声音             audio/dongwu/lion.mp3                      [启用]
+    14. 大老虎的声音             audio/dongwu/tiger.mp3                     [启用]
+    15. 海豚的声音              audio/dongwu/dolphin.mp3                   [启用]
+    16. 鹦鹉的声音              audio/dongwu/parrot.mp3                    [启用]
+    17. 猫头鹰的声音             audio/dongwu/owl.mp3                       [启用]
+    18. 小驴的声音              audio/dongwu/donkey.mp3                    [启用]
+    19. 小马的声音              audio/dongwu/horse.mp3                     [启用]
+    20. 小鹅的声音              audio/dongwu/goose.mp3                     [启用]
+    21. 小老鼠的声音             audio/dongwu/mouse.mp3                     [启用]
+    22. 大灰狼的声音             audio/dongwu/wolf.mp3                      [启用]
+    23. 松鼠的声音              audio/dongwu/squirrel.mp3                  [启用]
+    24. 火鸡的声音              audio/dongwu/turkey.mp3                    [启用]
+    25. 恐龙的声音              audio/dongwu/dinosaur.mp3                  [启用]
+    26. 海狮的声音              audio/dongwu/sealion.mp3                   [启用]
+    27. 小熊的声音              audio/dongwu/bear.mp3                      [启用]
+    28. 蛇的声音               audio/dongwu/snake.mp3                     [启用]
+    29. 大雁的声音              audio/dongwu/dayan.mp3                     [启用]
+    30. 企鹅的声音              audio/dongwu/penguin.mp3                   [启用]
+    31. 小仓鼠的声音             audio/dongwu/hamser.mp3                    [启用]
+    32. 蝙蝠的声音              audio/dongwu/bat.mp3                       [启用]
+    33. 河马的声音              audio/dongwu/hippo.mp3                     [启用]
+    34. 鳄鱼的声音              audio/dongwu/crocodile.mp3                 [启用]
+    35. 狐狸的声音              audio/dongwu/fox.mp3                       [启用]
+    36. 长颈鹿的声音             audio/dongwu/giraffe.mp3                   [启用]
+    37. 猎豹的声音              audio/dongwu/cheetah.mp3                   [启用]
+
+----------------------------------------------------
+备注：
+  - 已下架曲目仍保留文件，仅不进入线上包与网格。
+  - 红线依据《内容红线.md》：音乐服务（含旋律/演唱/器乐曲）与
+    有声读物（含朗读/绕口令/讲解）禁止提供。
+  - 本清单为自动生成快照，categories.json 变更后请重新运行本脚本。
