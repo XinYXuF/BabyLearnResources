@@ -761,19 +761,19 @@
       "playlist": [
         {
           "title": "微波炉提示音",
-          "src": "audio/lingsheng/microwave.mp3",
+          "src": "audio/lingsheng/microwave_20260921.mp3",
           "enabled": true,
           "order": 1
         },
         {
           "title": "电梯到达提示音",
-          "src": "audio/lingsheng/elevator.mp3",
+          "src": "audio/lingsheng/elevator_20260921.mp3",
           "enabled": true,
           "order": 2
         },
         {
           "title": "烤面包机弹出声",
-          "src": "audio/lingsheng/toaster.mp3",
+          "src": "audio/lingsheng/toaster_20260921.mp3",
           "enabled": true,
           "order": 3
         },
@@ -785,13 +785,13 @@
         },
         {
           "title": "计算器按键音",
-          "src": "audio/lingsheng/calculator.mp3",
+          "src": "audio/lingsheng/calculator_20260921.mp3",
           "enabled": true,
           "order": 5
         },
         {
           "title": "电脑开机音",
-          "src": "audio/lingsheng/bootup.mp3",
+          "src": "audio/lingsheng/bootup_20260921.mp3",
           "enabled": true,
           "order": 6
         }
