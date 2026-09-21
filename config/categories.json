@@ -335,7 +335,7 @@
         },
         {
           "title": "雷声",
-          "src": "audio/ziran/thunder.mp3",
+          "src": "audio/ziran/thunder_20260921.mp3",
           "enabled": true,
           "order": 3
         },
@@ -347,7 +347,7 @@
         },
         {
           "title": "夏日雷阵雨",
-          "src": "audio/ziran/thundershower.mp3",
+          "src": "audio/ziran/thundershower_20260921.mp3",
           "enabled": true,
           "order": 5
         },
