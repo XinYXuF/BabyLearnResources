@@ -390,6 +390,12 @@
           "enabled": true,
           "order": 1
         },
+         {
+          "title": "滴水声",
+          "src": "audio/ziran/drip_20260921.mp3",
+          "enabled": true,
+          "order": 1.1
+        },
         {
           "title": "海浪声",
           "src": "audio/ziran/waves.mp3",
@@ -404,14 +410,14 @@
         },
         {
           "title": "山洞滴水声",
-          "src": "audio/ziran/drip.mp3",
+          "src": "audio/ziran/cave-dripping.mp3",
           "enabled": true,
           "order": 4
         },
         {
           "title": "春溪解冻",
           "src": "audio/ziran/springcreek.mp3",
-          "enabled": true,
+          "enabled": false,
           "order": 5
         },
         {
