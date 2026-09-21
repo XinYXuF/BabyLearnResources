@@ -194,7 +194,7 @@
         },
         {
           "title": "海狮的声音",
-          "src": "audio/dongwu/sealion.mp3",
+          "src": "audio/dongwu/sealion_20260921.mp3",
           "enabled": true,
           "order": 18
         },
@@ -227,13 +227,13 @@
         },
         {
           "title": "大雁的声音",
-          "src": "audio/dongwu/dayan.mp3",
+          "src": "audio/dongwu/dayan_20260921.mp3",
           "enabled": true,
           "order": 3
         },
         {
           "title": "企鹅的声音",
-          "src": "audio/dongwu/penguin.mp3",
+          "src": "audio/dongwu/penguin_20260921.mp3",
           "enabled": true,
           "order": 4
         },
@@ -269,13 +269,13 @@
         },
         {
           "title": "鸽子咕咕声",
-          "src": "audio/ziran/dove.mp3",
+          "src": "audio/ziran/dove_20260921.mp3",
           "enabled": true,
           "order": 10
         },
         {
           "title": "啄木鸟敲树声",
-          "src": "audio/ziran/woodpecker.mp3",
+          "src": "audio/ziran/woodpecker_20260921.mp3",
           "enabled": true,
           "order": 11
         }
