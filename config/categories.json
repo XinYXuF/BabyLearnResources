@@ -4,7 +4,7 @@
   "categories": [
     {
       "id": "nongchang",
-      "label": "农场与宠物",
+      "label": "常见动物",
       "enabled": true,
       "order": 1,
       "image": "images/nongchang.jpg",
