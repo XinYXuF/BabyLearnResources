@@ -25,7 +25,7 @@
           "title": "小仓鼠的声音",
           "src": "audio/dongwu/hamser.mp3",
           "enabled": true,
-          "order": 3
+          "order": 13
         },
         {
           "title": "小牛的声音",
@@ -35,7 +35,7 @@
         },
         {
           "title": "小羊的声音",
-          "src": "audio/dongwu/sheep.mp3",
+          "src": "audio/dongwu/sheep_20260923.mp3",
           "enabled": true,
           "order": 5
         },
@@ -605,7 +605,7 @@
         },
         {
           "title": "自行车铃声",
-          "src": "audio/lingsheng/bicycle.mp3",
+          "src": "audio/jiaotong/bicycle.mp3",
           "enabled": true,
           "order": 17
         }
