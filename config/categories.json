@@ -240,7 +240,7 @@
         {
           "title": "火鸡的声音",
           "src": "audio/dongwu/turkey.mp3",
-          "enabled": true,
+          "enabled": false,
           "order": 5
         },
         {
