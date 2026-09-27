@@ -11,73 +11,85 @@
       "playlist": [
         {
           "title": "小狗的声音",
-          "src": "audio/dongwu/dog.mp3",
+          "src": "audio/nongchang/dog.mp3",
+          "image": "images/nongchang/dog.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "小猫的声音",
-          "src": "audio/dongwu/cat.mp3",
+          "src": "audio/nongchang/cat.mp3",
+          "image": "images/nongchang/cat.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "小仓鼠的声音",
-          "src": "audio/dongwu/hamser.mp3",
+          "src": "audio/nongchang/hamser.mp3",
+          "image": "images/nongchang/hamser.jpg",
           "enabled": true,
           "order": 13
         },
         {
           "title": "小牛的声音",
-          "src": "audio/dongwu/cow.mp3",
+          "src": "audio/nongchang/cow.mp3",
+          "image": "images/nongchang/cow.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "小羊的声音",
-          "src": "audio/dongwu/sheep_20260923.mp3",
+          "src": "audio/nongchang/sheep_20260923.mp3",
+          "image": "images/nongchang/sheep_20260923.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "小鸡的声音",
-          "src": "audio/dongwu/chicken.mp3",
+          "src": "audio/nongchang/chicken.mp3",
+          "image": "images/nongchang/chicken.jpg",
           "enabled": true,
           "order": 6
         },
         {
           "title": "大公鸡的声音",
-          "src": "audio/dongwu/rooster.mp3",
+          "src": "audio/nongchang/rooster.mp3",
+          "image": "images/nongchang/rooster.jpg",
           "enabled": true,
           "order": 7
         },
         {
           "title": "小鸭的声音",
-          "src": "audio/dongwu/duck_20260920.mp3",
+          "src": "audio/nongchang/duck_20260920.mp3",
+          "image": "images/nongchang/duck_20260920.jpg",
           "enabled": true,
           "order": 8
         },
         {
           "title": "小鹅的声音",
-          "src": "audio/dongwu/goose.mp3",
+          "src": "audio/nongchang/goose.mp3",
+          "image": "images/nongchang/goose.jpg",
           "enabled": true,
           "order": 9
         },
         {
           "title": "小猪的声音",
-          "src": "audio/dongwu/pig_20260921.mp3",
+          "src": "audio/nongchang/pig_20260921.mp3",
+          "image": "images/nongchang/pig_20260921.jpg",
           "enabled": true,
           "order": 10
         },
         {
           "title": "小驴的声音",
-          "src": "audio/dongwu/donkey.mp3",
+          "src": "audio/nongchang/donkey.mp3",
+          "image": "images/nongchang/donkey.jpg",
           "enabled": true,
           "order": 11
         },
         {
           "title": "小马的声音",
-          "src": "audio/dongwu/horse.mp3",
+          "src": "audio/nongchang/horse.mp3",
+          "image": "images/nongchang/horse.jpg",
           "enabled": true,
           "order": 12
         }
@@ -92,37 +104,43 @@
       "playlist": [
         {
           "title": "小猴子的声音",
-          "src": "audio/dongwu/monkey.mp3",
+          "src": "audio/yesheng/monkey.mp3",
+          "image": "images/yesheng/monkey.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "大象的声音",
-          "src": "audio/dongwu/elephant.mp3",
+          "src": "audio/yesheng/elephant.mp3",
+          "image": "images/yesheng/elephant.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "大狮子的声音",
-          "src": "audio/dongwu/lion_20260921.mp3",
+          "src": "audio/yesheng/lion_20260921.mp3",
+          "image": "images/yesheng/lion_20260921.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "大老虎的声音",
-          "src": "audio/dongwu/tiger_20260921.mp3",
+          "src": "audio/yesheng/tiger_20260921.mp3",
+          "image": "images/yesheng/tiger_20260921.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "大灰狼的声音",
-          "src": "audio/dongwu/wolf_20260921.mp3",
+          "src": "audio/yesheng/wolf_20260921.mp3",
+          "image": "images/yesheng/wolf_20260921.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "小熊的声音",
-          "src": "audio/dongwu/bear_20260921.mp3",
+          "src": "audio/yesheng/bear_20260921.mp3",
+          "image": "images/yesheng/bear_20260921.jpg",
           "enabled": true,
           "order": 6
         },
@@ -134,43 +152,50 @@
         },
         {
           "title": "河马的声音",
-          "src": "audio/dongwu/hippo_20260921.mp3",
+          "src": "audio/yesheng/hippo_20260921.mp3",
+          "image": "images/yesheng/hippo_20260921.jpg",
           "enabled": true,
           "order": 8
         },
         {
           "title": "鳄鱼的声音",
-          "src": "audio/dongwu/crocodile_20260921.mp3",
+          "src": "audio/yesheng/crocodile_20260921.mp3",
+          "image": "images/yesheng/crocodile_20260921.jpg",
           "enabled": true,
           "order": 9
         },
         {
           "title": "狐狸的声音",
-          "src": "audio/dongwu/fox_20260921.mp3",
+          "src": "audio/yesheng/fox_20260921.mp3",
+          "image": "images/yesheng/fox_20260921.jpg",
           "enabled": true,
           "order": 10
         },
         {
           "title": "长颈鹿的声音",
-          "src": "audio/dongwu/giraffe_20260921.mp3",
+          "src": "audio/yesheng/giraffe_20260921.mp3",
+          "image": "images/yesheng/giraffe_20260921.jpg",
           "enabled": true,
           "order": 11
         },
         {
           "title": "猎豹的声音",
-          "src": "audio/dongwu/cheetah_20260921.mp3",
+          "src": "audio/yesheng/cheetah_20260921.mp3",
+          "image": "images/yesheng/cheetah_20260921.jpg",
           "enabled": true,
           "order": 12
         },
         {
           "title": "松鼠的声音",
-          "src": "audio/dongwu/squirrel_20260921.mp3",
+          "src": "audio/yesheng/squirrel_20260921.mp3",
+          "image": "images/yesheng/squirrel_20260921.jpg",
           "enabled": true,
           "order": 13
         },
         {
           "title": "小老鼠的声音",
-          "src": "audio/dongwu/mouse.mp3",
+          "src": "audio/yesheng/mouse.mp3",
+          "image": "images/yesheng/mouse.jpg",
           "enabled": true,
           "order": 14
         },
@@ -182,25 +207,29 @@
         },
         {
           "title": "蝙蝠的声音",
-          "src": "audio/dongwu/bat.mp3",
+          "src": "audio/yesheng/bat.mp3",
+          "image": "images/yesheng/bat.jpg",
           "enabled": true,
           "order": 16
         },
         {
           "title": "海豚的声音",
-          "src": "audio/dongwu/dolphin.mp3",
+          "src": "audio/yesheng/dolphin.mp3",
+          "image": "images/yesheng/dolphin.jpg",
           "enabled": true,
           "order": 17
         },
         {
           "title": "海狮的声音",
-          "src": "audio/dongwu/sealion_20260921.mp3",
+          "src": "audio/yesheng/sealion_20260921.mp3",
+          "image": "images/yesheng/sealion_20260921.jpg",
           "enabled": true,
           "order": 18
         },
         {
           "title": "鲸鱼叫声",
-          "src": "audio/ziran/whale.mp3",
+          "src": "audio/yesheng/whale.mp3",
+          "image": "images/yesheng/whale.jpg",
           "enabled": true,
           "order": 19
         }
@@ -215,25 +244,29 @@
       "playlist": [
         {
           "title": "鹦鹉的声音",
-          "src": "audio/dongwu/parrot.mp3",
+          "src": "audio/feiniao/parrot.mp3",
+          "image": "images/feiniao/parrot.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "猫头鹰的声音",
-          "src": "audio/dongwu/owl.mp3",
+          "src": "audio/feiniao/owl.mp3",
+          "image": "images/feiniao/owl.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "大雁的声音",
-          "src": "audio/dongwu/dayan_20260921.mp3",
+          "src": "audio/feiniao/dayan_20260921.mp3",
+          "image": "images/feiniao/dayan_20260921.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "企鹅的声音",
-          "src": "audio/dongwu/penguin_20260921.mp3",
+          "src": "audio/feiniao/penguin_20260921.mp3",
+          "image": "images/feiniao/penguin_20260921.jpg",
           "enabled": true,
           "order": 4
         },
@@ -245,37 +278,43 @@
         },
         {
           "title": "鸟鸣声",
-          "src": "audio/ziran/bird.mp3",
+          "src": "audio/feiniao/bird.mp3",
+          "image": "images/feiniao/bird.jpg",
           "enabled": true,
           "order": 6
         },
         {
           "title": "清晨鸟语",
-          "src": "audio/ziran/dawn.mp3",
+          "src": "audio/feiniao/dawn.mp3",
+          "image": "images/feiniao/dawn.jpg",
           "enabled": true,
           "order": 7
         },
         {
           "title": "海鸥鸣叫声",
-          "src": "audio/ziran/seagull.mp3",
+          "src": "audio/feiniao/seagull.mp3",
+          "image": "images/feiniao/seagull.jpg",
           "enabled": true,
           "order": 8
         },
         {
           "title": "布谷鸟叫声",
-          "src": "audio/ziran/cuckoo-bird.mp3",
+          "src": "audio/feiniao/cuckoo-bird.mp3",
+          "image": "images/feiniao/cuckoo-bird.jpg",
           "enabled": true,
           "order": 9
         },
         {
           "title": "鸽子咕咕声",
-          "src": "audio/ziran/dove_20260921.mp3",
+          "src": "audio/feiniao/dove_20260921.mp3",
+          "image": "images/feiniao/dove_20260921.jpg",
           "enabled": true,
           "order": 10
         },
         {
           "title": "啄木鸟敲树声",
-          "src": "audio/ziran/woodpecker_20260921.mp3",
+          "src": "audio/feiniao/woodpecker_20260921.mp3",
+          "image": "images/feiniao/woodpecker_20260921.jpg",
           "enabled": true,
           "order": 11
         }
@@ -290,25 +329,29 @@
       "playlist": [
         {
           "title": "小蜜蜂的声音",
-          "src": "audio/dongwu/bee.mp3",
+          "src": "audio/kunchong/bee.mp3",
+          "image": "images/kunchong/bee.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "小青蛙的声音",
-          "src": "audio/dongwu/frog.mp3",
+          "src": "audio/kunchong/frog.mp3",
+          "image": "images/kunchong/frog.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "夜晚蛙鸣",
-          "src": "audio/ziran/night-frogs.mp3",
+          "src": "audio/kunchong/night-frogs.mp3",
+          "image": "images/kunchong/night-frogs.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "夏夜合奏",
-          "src": "audio/ziran/summernight.mp3",
+          "src": "audio/kunchong/summernight.mp3",
+          "image": "images/kunchong/summernight.jpg",
           "enabled": true,
           "order": 4
         }
@@ -323,55 +366,64 @@
       "playlist": [
         {
           "title": "雨声",
-          "src": "audio/ziran/rain.mp3",
+          "src": "audio/tianqi/rain.mp3",
+          "image": "images/tianqi/rain.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "风声",
-          "src": "audio/ziran/wind.mp3",
+          "src": "audio/tianqi/wind.mp3",
+          "image": "images/tianqi/wind.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "雷声",
-          "src": "audio/ziran/thunder_20260921.mp3",
+          "src": "audio/tianqi/thunder_20260921.mp3",
+          "image": "images/tianqi/thunder_20260921.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "暴风雨声",
-          "src": "audio/ziran/storm.mp3",
+          "src": "audio/tianqi/storm.mp3",
+          "image": "images/tianqi/storm.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "夏日雷阵雨",
-          "src": "audio/ziran/thundershower_20260921.mp3",
+          "src": "audio/tianqi/thundershower_20260921.mp3",
+          "image": "images/tianqi/thundershower_20260921.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "雨打屋檐",
-          "src": "audio/ziran/rain-roof.mp3",
+          "src": "audio/tianqi/rain-roof.mp3",
+          "image": "images/tianqi/rain-roof.jpg",
           "enabled": true,
           "order": 6
         },
         {
           "title": "雨打帐篷",
-          "src": "audio/ziran/rain-tent.mp3",
+          "src": "audio/tianqi/rain-tent.mp3",
+          "image": "images/tianqi/rain-tent.jpg",
           "enabled": true,
           "order": 7
         },
         {
           "title": "冰雹声",
-          "src": "audio/ziran/hail.mp3",
+          "src": "audio/tianqi/hail.mp3",
+          "image": "images/tianqi/hail.jpg",
           "enabled": true,
           "order": 8
         },
         {
           "title": "暴风雪",
-          "src": "audio/ziran/blizzard.mp3",
+          "src": "audio/tianqi/blizzard.mp3",
+          "image": "images/tianqi/blizzard.jpg",
           "enabled": true,
           "order": 9
         }
@@ -386,31 +438,36 @@
       "playlist": [
         {
           "title": "流水声",
-          "src": "audio/ziran/water.mp3",
+          "src": "audio/shuisheng/water.mp3",
+          "image": "images/shuisheng/water.jpg",
           "enabled": true,
           "order": 1
         },
          {
           "title": "滴水声",
-          "src": "audio/ziran/drip_20260921.mp3",
+          "src": "audio/shuisheng/drip_20260921.mp3",
+          "image": "images/shuisheng/drip_20260921.jpg",
           "enabled": true,
           "order": 1.1
         },
         {
           "title": "海浪声",
-          "src": "audio/ziran/waves.mp3",
+          "src": "audio/shuisheng/waves.mp3",
+          "image": "images/shuisheng/waves.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "瀑布声",
-          "src": "audio/ziran/waterfall.mp3",
+          "src": "audio/shuisheng/waterfall.mp3",
+          "image": "images/shuisheng/waterfall.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "山洞滴水声",
-          "src": "audio/ziran/cave-dripping.mp3",
+          "src": "audio/shuisheng/cave-dripping.mp3",
+          "image": "images/shuisheng/cave-dripping.jpg",
           "enabled": true,
           "order": 4
         },
@@ -422,7 +479,8 @@
         },
         {
           "title": "深海之声",
-          "src": "audio/ziran/deepsea.mp3",
+          "src": "audio/shuisheng/deepsea.mp3",
+          "image": "images/shuisheng/deepsea.jpg",
           "enabled": true,
           "order": 6
         }
@@ -437,13 +495,15 @@
       "playlist": [
         {
           "title": "虫鸣声",
-          "src": "audio/ziran/insect.mp3",
+          "src": "audio/niaochong/insect.mp3",
+          "image": "images/niaochong/insect.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "蝉鸣声",
-          "src": "audio/ziran/cicada.mp3",
+          "src": "audio/niaochong/cicada.mp3",
+          "image": "images/niaochong/cicada.jpg",
           "enabled": true,
           "order": 2
         }
@@ -458,43 +518,50 @@
       "playlist": [
         {
           "title": "森林之声",
-          "src": "audio/ziran/forest.mp3",
+          "src": "audio/senlin/forest.mp3",
+          "image": "images/senlin/forest.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "篝火声",
-          "src": "audio/ziran/fire.mp3",
+          "src": "audio/senlin/fire.mp3",
+          "image": "images/senlin/fire.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "树叶沙沙声",
-          "src": "audio/ziran/leaves.mp3",
+          "src": "audio/senlin/leaves.mp3",
+          "image": "images/senlin/leaves.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "竹林风",
-          "src": "audio/ziran/bamboo.mp3",
+          "src": "audio/senlin/bamboo.mp3",
+          "image": "images/senlin/bamboo.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "松涛",
-          "src": "audio/ziran/wind-pines.mp3",
+          "src": "audio/senlin/wind-pines.mp3",
+          "image": "images/senlin/wind-pines.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "山谷回声",
-          "src": "audio/ziran/echovalley.mp3",
+          "src": "audio/senlin/echovalley.mp3",
+          "image": "images/senlin/echovalley.jpg",
           "enabled": true,
           "order": 6
         },
         {
           "title": "冰面开裂声",
-          "src": "audio/ziran/icecrack.mp3",
+          "src": "audio/senlin/icecrack.mp3",
+          "image": "images/senlin/icecrack.jpg",
           "enabled": true,
           "order": 7
         }
@@ -509,103 +576,120 @@
       "playlist": [
         {
           "title": "汽车的声音",
-          "src": "audio/jiaotong/car.mp3",
+          "src": "audio/ludi/car.mp3",
+          "image": "images/ludi/car.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "火车的声音",
-          "src": "audio/jiaotong/train.mp3",
+          "src": "audio/ludi/train.mp3",
+          "image": "images/ludi/train.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "摩托车的声音",
-          "src": "audio/jiaotong/motorcycle.mp3",
+          "src": "audio/ludi/motorcycle.mp3",
+          "image": "images/ludi/motorcycle.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "拖拉机的声音",
-          "src": "audio/jiaotong/tractor.mp3",
+          "src": "audio/ludi/tractor.mp3",
+          "image": "images/ludi/tractor.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "地铁进站声",
-          "src": "audio/jiaotong/subway.mp3",
+          "src": "audio/ludi/subway.mp3",
+          "image": "images/ludi/subway.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "公交车的声音",
-          "src": "audio/jiaotong/bus.mp3",
+          "src": "audio/ludi/bus.mp3",
+          "image": "images/ludi/bus.jpg",
           "enabled": true,
           "order": 6
         },
         {
           "title": "有轨电车的声音",
-          "src": "audio/jiaotong/tram.mp3",
+          "src": "audio/ludi/tram.mp3",
+          "image": "images/ludi/tram.jpg",
           "enabled": true,
           "order": 7
         },
         {
           "title": "火车轨道咣当声",
-          "src": "audio/jiaotong/trainwheels.mp3",
+          "src": "audio/ludi/trainwheels.mp3",
+          "image": "images/ludi/trainwheels.jpg",
           "enabled": true,
           "order": 8
         },
         {
           "title": "大卡车的声音",
-          "src": "audio/jiaotong/truck.mp3",
+          "src": "audio/ludi/truck.mp3",
+          "image": "images/ludi/truck.jpg",
           "enabled": true,
           "order": 9
         },
         {
           "title": "高铁的声音",
-          "src": "audio/jiaotong/hsr.mp3",
+          "src": "audio/ludi/hsr.mp3",
+          "image": "images/ludi/hsr.jpg",
           "enabled": true,
           "order": 10
         },
         {
           "title": "汽车喇叭声",
-          "src": "audio/jiaotong/horn.mp3",
+          "src": "audio/ludi/horn.mp3",
+          "image": "images/ludi/horn.jpg",
           "enabled": true,
           "order": 11
         },
         {
           "title": "马蹄声",
-          "src": "audio/jiaotong/hoof.mp3",
+          "src": "audio/ludi/hoof.mp3",
+          "image": "images/ludi/hoof.jpg",
           "enabled": true,
           "order": 12
         },
         {
           "title": "缆车的声音",
-          "src": "audio/jiaotong/cablecar.mp3",
+          "src": "audio/ludi/cablecar.mp3",
+          "image": "images/ludi/cablecar.jpg",
           "enabled": true,
           "order": 13
         },
         {
           "title": "三轮车的声音",
-          "src": "audio/jiaotong/tricycle.mp3",
+          "src": "audio/ludi/tricycle.mp3",
+          "image": "images/ludi/tricycle.jpg",
           "enabled": true,
           "order": 14
         },
         {
           "title": "雪地摩托的声音",
-          "src": "audio/jiaotong/snowmobile.mp3",
+          "src": "audio/ludi/snowmobile.mp3",
+          "image": "images/ludi/snowmobile.jpg",
           "enabled": true,
           "order": 15
         },
         {
           "title": "滑板车的声音",
-          "src": "audio/jiaotong/scooter.mp3",
+          "src": "audio/ludi/scooter.mp3",
+          "image": "images/ludi/scooter.jpg",
           "enabled": true,
           "order": 16
         },
         {
           "title": "自行车铃声",
-          "src": "audio/jiaotong/bicycle.mp3",
+          "src": "audio/ludi/bicycle.mp3",
+          "image": "images/ludi/bicycle.jpg",
           "enabled": true,
           "order": 17
         }
@@ -620,37 +704,43 @@
       "playlist": [
         {
           "title": "飞机的声音",
-          "src": "audio/jiaotong/plane.mp3",
+          "src": "audio/feixing/plane.mp3",
+          "image": "images/feixing/plane.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "直升机的声音",
-          "src": "audio/jiaotong/helicopter.mp3",
+          "src": "audio/feixing/helicopter.mp3",
+          "image": "images/feixing/helicopter.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "火箭发射的声音",
-          "src": "audio/jiaotong/rocket.mp3",
+          "src": "audio/feixing/rocket.mp3",
+          "image": "images/feixing/rocket.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "轮船的声音",
-          "src": "audio/jiaotong/ship.mp3",
+          "src": "audio/feixing/ship.mp3",
+          "image": "images/feixing/ship.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "快艇的声音",
-          "src": "audio/jiaotong/speedboat.mp3",
+          "src": "audio/feixing/speedboat.mp3",
+          "image": "images/feixing/speedboat.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "热气球的声音",
-          "src": "audio/jiaotong/balloon.mp3",
+          "src": "audio/feixing/balloon.mp3",
+          "image": "images/feixing/balloon.jpg",
           "enabled": true,
           "order": 6
         }
@@ -665,25 +755,29 @@
       "playlist": [
         {
           "title": "救护车的声音",
-          "src": "audio/jiaotong/ambulance.mp3",
+          "src": "audio/jingbao/ambulance.mp3",
+          "image": "images/jingbao/ambulance.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "警车的声音",
-          "src": "audio/jiaotong/police_20260921.mp3",
+          "src": "audio/jingbao/police_20260921.mp3",
+          "image": "images/jingbao/police_20260921.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "消防车的声音",
-          "src": "audio/jiaotong/firetruck.mp3",
+          "src": "audio/jingbao/firetruck.mp3",
+          "image": "images/jingbao/firetruck.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "铁路道口警报",
-          "src": "audio/jiaotong/railway-crossing.mp3",
+          "src": "audio/jingbao/railway-crossing.mp3",
+          "image": "images/jingbao/railway-crossing.jpg",
           "enabled": true,
           "order": 4
         }
@@ -698,55 +792,64 @@
       "playlist": [
         {
           "title": "门铃声",
-          "src": "audio/lingsheng/doorbell.mp3",
+          "src": "audio/shenghuo/doorbell.mp3",
+          "image": "images/shenghuo/doorbell.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "电话铃声",
-          "src": "audio/lingsheng/phone_20260921.mp3",
+          "src": "audio/shenghuo/phone_20260921.mp3",
+          "image": "images/shenghuo/phone_20260921.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "闹钟铃声",
-          "src": "audio/lingsheng/alarm.mp3",
+          "src": "audio/shenghuo/alarm.mp3",
+          "image": "images/shenghuo/alarm.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "电子闹钟",
-          "src": "audio/lingsheng/alarm-digital_20260921.mp3",
+          "src": "audio/shenghuo/alarm-digital_20260921.mp3",
+          "image": "images/shenghuo/alarm-digital_20260921.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "店铺门铃",
-          "src": "audio/lingsheng/shopbell.mp3",
+          "src": "audio/shenghuo/shopbell.mp3",
+          "image": "images/shenghuo/shopbell.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "学校铃声",
-          "src": "audio/lingsheng/school-bell_20260921.mp3",
+          "src": "audio/shenghuo/school-bell_20260921.mp3",
+          "image": "images/shenghuo/school-bell_20260921.jpg",
           "enabled": true,
           "order": 6
         },
         {
           "title": "下课铃声",
-          "src": "audio/lingsheng/recessbell.mp3",
+          "src": "audio/shenghuo/recessbell.mp3",
+          "image": "images/shenghuo/recessbell.jpg",
           "enabled": true,
           "order": 7
         },
         {
           "title": "消息提示音",
-          "src": "audio/lingsheng/notification.mp3",
+          "src": "audio/shenghuo/notification.mp3",
+          "image": "images/shenghuo/notification.jpg",
           "enabled": true,
           "order": 8
         },
         {
           "title": "手机震动声",
-          "src": "audio/lingsheng/vibrate.mp3",
+          "src": "audio/shenghuo/vibrate.mp3",
+          "image": "images/shenghuo/vibrate.jpg",
           "enabled": true,
           "order": 9
         }
@@ -761,37 +864,43 @@
       "playlist": [
         {
           "title": "微波炉提示音",
-          "src": "audio/lingsheng/microwave_20260921.mp3",
+          "src": "audio/jiadian/microwave_20260921.mp3",
+          "image": "images/jiadian/microwave_20260921.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "电梯到达提示音",
-          "src": "audio/lingsheng/elevator_20260921.mp3",
+          "src": "audio/jiadian/elevator_20260921.mp3",
+          "image": "images/jiadian/elevator_20260921.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "烤面包机弹出声",
-          "src": "audio/lingsheng/toaster_20260921.mp3",
+          "src": "audio/jiadian/toaster_20260921.mp3",
+          "image": "images/jiadian/toaster_20260921.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "水壶烧开哨音",
-          "src": "audio/lingsheng/kettle.mp3",
+          "src": "audio/jiadian/kettle.mp3",
+          "image": "images/jiadian/kettle.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "计算器按键音",
-          "src": "audio/lingsheng/calculator_20260921.mp3",
+          "src": "audio/jiadian/calculator_20260921.mp3",
+          "image": "images/jiadian/calculator_20260921.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "电脑开机音",
-          "src": "audio/lingsheng/bootup_20260921.mp3",
+          "src": "audio/jiadian/bootup_20260921.mp3",
+          "image": "images/jiadian/bootup_20260921.jpg",
           "enabled": true,
           "order": 6
         }
@@ -806,43 +915,50 @@
       "playlist": [
         {
           "title": "教堂钟声",
-          "src": "audio/lingsheng/church-bell.mp3",
+          "src": "audio/zhongling/church-bell.mp3",
+          "image": "images/zhongling/church-bell.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "时钟滴答声",
-          "src": "audio/lingsheng/tick.mp3",
+          "src": "audio/zhongling/tick.mp3",
+          "image": "images/zhongling/tick.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "风铃声",
-          "src": "audio/lingsheng/chime.mp3",
+          "src": "audio/zhongling/chime.mp3",
+          "image": "images/zhongling/chime.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "风铃",
-          "src": "audio/lingsheng/windchime.mp3",
+          "src": "audio/zhongling/windchime.mp3",
+          "image": "images/zhongling/windchime.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "布谷鸟钟报时",
-          "src": "audio/lingsheng/cuckoo.mp3",
+          "src": "audio/zhongling/cuckoo.mp3",
+          "image": "images/zhongling/cuckoo.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "奶牛铃铛",
-          "src": "audio/lingsheng/cowbell.mp3",
+          "src": "audio/zhongling/cowbell.mp3",
+          "image": "images/zhongling/cowbell.jpg",
           "enabled": true,
           "order": 6
         },
         {
           "title": "圣诞铃铛",
-          "src": "audio/lingsheng/jinglebell.mp3",
+          "src": "audio/zhongling/jinglebell.mp3",
+          "image": "images/zhongling/jinglebell.jpg",
           "enabled": true,
           "order": 7
         }
@@ -857,25 +973,29 @@
       "playlist": [
         {
           "title": "吱吱玩具声",
-          "src": "audio/douxiao/squeak.mp3",
+          "src": "audio/wanju/squeak.mp3",
+          "image": "images/wanju/squeak.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "吹泡泡声",
-          "src": "audio/douxiao/bubble.mp3",
+          "src": "audio/wanju/bubble.mp3",
+          "image": "images/wanju/bubble.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "婴儿摇铃声",
-          "src": "audio/lingsheng/rattle.mp3",
+          "src": "audio/wanju/rattle.mp3",
+          "image": "images/wanju/rattle.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "游戏投币声",
-          "src": "audio/lingsheng/coin.mp3",
+          "src": "audio/wanju/coin.mp3",
+          "image": "images/wanju/coin.jpg",
           "enabled": true,
           "order": 4
         }
@@ -890,61 +1010,71 @@
       "playlist": [
         {
           "title": "滑稽音效集",
-          "src": "audio/douxiao/funny.mp3",
+          "src": "audio/gaoxiao/funny.mp3",
+          "image": "images/gaoxiao/funny.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "弹簧音效",
-          "src": "audio/douxiao/boing.mp3",
+          "src": "audio/gaoxiao/boing.mp3",
+          "image": "images/gaoxiao/boing.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "放屁坐垫",
-          "src": "audio/douxiao/whoopee.mp3",
+          "src": "audio/gaoxiao/whoopee.mp3",
+          "image": "images/gaoxiao/whoopee.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "噗噗声",
-          "src": "audio/douxiao/raspberry.mp3",
+          "src": "audio/gaoxiao/raspberry.mp3",
+          "image": "images/gaoxiao/raspberry.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "滑稽下滑音",
-          "src": "audio/douxiao/slidedown.mp3",
+          "src": "audio/gaoxiao/slidedown.mp3",
+          "image": "images/gaoxiao/slidedown.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "噔噔噔",
-          "src": "audio/douxiao/tada.mp3",
+          "src": "audio/gaoxiao/tada.mp3",
+          "image": "images/gaoxiao/tada.jpg",
           "enabled": true,
           "order": 6
         },
         {
           "title": "啪嗒",
-          "src": "audio/douxiao/splat.mp3",
+          "src": "audio/gaoxiao/splat.mp3",
+          "image": "images/gaoxiao/splat.jpg",
           "enabled": true,
           "order": 7
         },
         {
           "title": "嘟嘟",
-          "src": "audio/douxiao/toot.mp3",
+          "src": "audio/gaoxiao/toot.mp3",
+          "image": "images/gaoxiao/toot.jpg",
           "enabled": true,
           "order": 8
         },
         {
           "title": "滑稽口哨",
-          "src": "audio/douxiao/whistle.mp3",
+          "src": "audio/gaoxiao/whistle.mp3",
+          "image": "images/gaoxiao/whistle.jpg",
           "enabled": true,
           "order": 9
         },
         {
           "title": "滑音口哨",
-          "src": "audio/douxiao/slide-whistle.mp3",
+          "src": "audio/gaoxiao/slide-whistle.mp3",
+          "image": "images/gaoxiao/slide-whistle.jpg",
           "enabled": true,
           "order": 10
         }
@@ -959,31 +1089,36 @@
       "playlist": [
         {
           "title": "小丑喇叭",
-          "src": "audio/douxiao/clown-horn.mp3",
+          "src": "audio/laba/clown-horn.mp3",
+          "image": "images/laba/clown-horn.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "派对喇叭",
-          "src": "audio/douxiao/partyhorn.mp3",
+          "src": "audio/laba/partyhorn.mp3",
+          "image": "images/laba/partyhorn.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "卡祖笛",
-          "src": "audio/douxiao/kazoo.mp3",
+          "src": "audio/laba/kazoo.mp3",
+          "image": "images/laba/kazoo.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "滑稽长号",
-          "src": "audio/douxiao/wahwah.mp3",
+          "src": "audio/laba/wahwah.mp3",
+          "image": "images/laba/wahwah.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "小鸭哨",
-          "src": "audio/douxiao/duckwhistle.mp3",
+          "src": "audio/laba/duckwhistle.mp3",
+          "image": "images/laba/duckwhistle.jpg",
           "enabled": true,
           "order": 5
         }
@@ -998,37 +1133,43 @@
       "playlist": [
         {
           "title": "打喷嚏音效",
-          "src": "audio/douxiao/sneeze.mp3",
+          "src": "audio/renti/sneeze.mp3",
+          "image": "images/renti/sneeze.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "咯咯笑声",
-          "src": "audio/douxiao/laugh.mp3",
+          "src": "audio/renti/laugh.mp3",
+          "image": "images/renti/laugh.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "咯咯笑",
-          "src": "audio/douxiao/giggle.mp3",
+          "src": "audio/renti/giggle.mp3",
+          "image": "images/renti/giggle.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "打嗝音效",
-          "src": "audio/douxiao/hiccup.mp3",
+          "src": "audio/renti/hiccup.mp3",
+          "image": "images/renti/hiccup.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "打嗝",
-          "src": "audio/douxiao/burp.mp3",
+          "src": "audio/renti/burp.mp3",
+          "image": "images/renti/burp.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "打呼噜音效",
-          "src": "audio/douxiao/snore.mp3",
+          "src": "audio/renti/snore.mp3",
+          "image": "images/renti/snore.jpg",
           "enabled": true,
           "order": 6
         }
@@ -1043,85 +1184,99 @@
       "playlist": [
         {
           "title": "咔嚓声",
-          "src": "audio/shengxiao/camera.mp3",
+          "src": "audio/zhaoxiang/camera.mp3",
+          "image": "images/zhaoxiang/camera.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "快门连拍",
-          "src": "audio/shengxiao/shutter.mp3",
+          "src": "audio/zhaoxiang/shutter.mp3",
+          "image": "images/zhaoxiang/shutter.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "拍立得快门",
-          "src": "audio/shengxiao/polaroid.mp3",
+          "src": "audio/zhaoxiang/polaroid.mp3",
+          "image": "images/zhaoxiang/polaroid.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "手机快门声",
-          "src": "audio/shengxiao/phone.mp3",
+          "src": "audio/zhaoxiang/phone.mp3",
+          "image": "images/zhaoxiang/phone.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "大头贴快门",
-          "src": "audio/shengxiao/photobooth.mp3",
+          "src": "audio/zhaoxiang/photobooth.mp3",
+          "image": "images/zhaoxiang/photobooth.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "闪光灯爆响",
-          "src": "audio/shengxiao/flashpop.mp3",
+          "src": "audio/zhaoxiang/flashpop.mp3",
+          "image": "images/zhaoxiang/flashpop.jpg",
           "enabled": true,
           "order": 6
         },
         {
           "title": "连拍快门",
-          "src": "audio/shengxiao/shutter-burst.mp3",
+          "src": "audio/zhaoxiang/shutter-burst.mp3",
+          "image": "images/zhaoxiang/shutter-burst.jpg",
           "enabled": true,
           "order": 7
         },
         {
           "title": "一次性相机",
-          "src": "audio/shengxiao/disposable.mp3",
+          "src": "audio/zhaoxiang/disposable.mp3",
+          "image": "images/zhaoxiang/disposable.jpg",
           "enabled": true,
           "order": 8
         },
         {
           "title": "自拍提示音",
-          "src": "audio/shengxiao/selftimer.mp3",
+          "src": "audio/zhaoxiang/selftimer.mp3",
+          "image": "images/zhaoxiang/selftimer.jpg",
           "enabled": true,
           "order": 9
         },
         {
           "title": "截屏提示音",
-          "src": "audio/shengxiao/screenshot.mp3",
+          "src": "audio/zhaoxiang/screenshot.mp3",
+          "image": "images/zhaoxiang/screenshot.jpg",
           "enabled": true,
           "order": 10
         },
         {
           "title": "闪光灯连闪",
-          "src": "audio/shengxiao/screenflash.mp3",
+          "src": "audio/zhaoxiang/screenflash.mp3",
+          "image": "images/zhaoxiang/screenflash.jpg",
           "enabled": true,
           "order": 11
         },
         {
           "title": "老式闪光灯泡声",
-          "src": "audio/shengxiao/flashbulb.mp3",
+          "src": "audio/zhaoxiang/flashbulb.mp3",
+          "image": "images/zhaoxiang/flashbulb.jpg",
           "enabled": true,
           "order": 12
         },
         {
           "title": "镜头盖开合声",
-          "src": "audio/shengxiao/lenscap.mp3",
+          "src": "audio/zhaoxiang/lenscap.mp3",
+          "image": "images/zhaoxiang/lenscap.jpg",
           "enabled": true,
           "order": 13
         },
         {
           "title": "闪光灯充电声",
-          "src": "audio/shengxiao/flash.mp3",
+          "src": "audio/zhaoxiang/flash.mp3",
+          "image": "images/zhaoxiang/flash.jpg",
           "enabled": true,
           "order": 14
         }
@@ -1136,67 +1291,78 @@
       "playlist": [
         {
           "title": "拍照倒计时",
-          "src": "audio/shengxiao/countdown.mp3",
+          "src": "audio/yingyin/countdown.mp3",
+          "image": "images/yingyin/countdown.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "胶片卷片声",
-          "src": "audio/shengxiao/film.mp3",
+          "src": "audio/yingyin/film.mp3",
+          "image": "images/yingyin/film.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "对焦提示音",
-          "src": "audio/shengxiao/record-beep.mp3",
+          "src": "audio/yingyin/record-beep.mp3",
+          "image": "images/yingyin/record-beep.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "镜头变焦声",
-          "src": "audio/shengxiao/zoom.mp3",
+          "src": "audio/yingyin/zoom.mp3",
+          "image": "images/yingyin/zoom.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "胶片过片声",
-          "src": "audio/shengxiao/rewind.mp3",
+          "src": "audio/yingyin/rewind.mp3",
+          "image": "images/yingyin/rewind.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "老式摄像机",
-          "src": "audio/shengxiao/camcorder.mp3",
+          "src": "audio/yingyin/camcorder.mp3",
+          "image": "images/yingyin/camcorder.jpg",
           "enabled": true,
           "order": 6
         },
         {
           "title": "马达卷片声",
-          "src": "audio/shengxiao/motorwind.mp3",
+          "src": "audio/yingyin/motorwind.mp3",
+          "image": "images/yingyin/motorwind.jpg",
           "enabled": true,
           "order": 7
         },
         {
           "title": "相机上弦声",
-          "src": "audio/shengxiao/windup.mp3",
+          "src": "audio/yingyin/windup.mp3",
+          "image": "images/yingyin/windup.jpg",
           "enabled": true,
           "order": 8
         },
         {
           "title": "幻灯片换片声",
-          "src": "audio/shengxiao/slideshow.mp3",
+          "src": "audio/yingyin/slideshow.mp3",
+          "image": "images/yingyin/slideshow.jpg",
           "enabled": true,
           "order": 9
         },
         {
           "title": "录像提示音",
-          "src": "audio/shengxiao/recbeep.mp3",
+          "src": "audio/yingyin/recbeep.mp3",
+          "image": "images/yingyin/recbeep.jpg",
           "enabled": true,
           "order": 10
         },
         {
           "title": "存储卡弹出声",
-          "src": "audio/shengxiao/sdcard.mp3",
+          "src": "audio/yingyin/sdcard.mp3",
+          "image": "images/yingyin/sdcard.jpg",
           "enabled": true,
           "order": 11
         }
@@ -1211,73 +1377,85 @@
       "playlist": [
         {
           "title": "小鼓声",
-          "src": "audio/yueqi/drum.mp3",
+          "src": "audio/qiaoji/drum.mp3",
+          "image": "images/qiaoji/drum.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "木琴声",
-          "src": "audio/yueqi/xylophone.mp3",
+          "src": "audio/qiaoji/xylophone.mp3",
+          "image": "images/qiaoji/xylophone.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "铃鼓声",
-          "src": "audio/yueqi/tambourine.mp3",
+          "src": "audio/qiaoji/tambourine.mp3",
+          "image": "images/qiaoji/tambourine.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "锣声",
-          "src": "audio/yueqi/gong.mp3",
+          "src": "audio/qiaoji/gong.mp3",
+          "image": "images/qiaoji/gong.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "沙锤声",
-          "src": "audio/yueqi/shaker.mp3",
+          "src": "audio/qiaoji/shaker.mp3",
+          "image": "images/qiaoji/shaker.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "编钟声",
-          "src": "audio/yueqi/bianzhong.mp3",
+          "src": "audio/qiaoji/bianzhong.mp3",
+          "image": "images/qiaoji/bianzhong.jpg",
           "enabled": true,
           "order": 6
         },
         {
           "title": "木鱼声",
-          "src": "audio/yueqi/muyu.mp3",
+          "src": "audio/qiaoji/muyu.mp3",
+          "image": "images/qiaoji/muyu.jpg",
           "enabled": true,
           "order": 7
         },
         {
           "title": "钢鼓",
-          "src": "audio/yueqi/steel-drum.mp3",
+          "src": "audio/qiaoji/steel-drum.mp3",
+          "image": "images/qiaoji/steel-drum.jpg",
           "enabled": true,
           "order": 8
         },
         {
           "title": "颤音琴",
-          "src": "audio/yueqi/vibraphone.mp3",
+          "src": "audio/qiaoji/vibraphone.mp3",
+          "image": "images/qiaoji/vibraphone.jpg",
           "enabled": true,
           "order": 9
         },
         {
           "title": "响板",
-          "src": "audio/yueqi/castanets.mp3",
+          "src": "audio/qiaoji/castanets.mp3",
+          "image": "images/qiaoji/castanets.jpg",
           "enabled": true,
           "order": 10
         },
         {
           "title": "三角铁声",
-          "src": "audio/lingsheng/triangle.mp3",
+          "src": "audio/qiaoji/triangle.mp3",
+          "image": "images/qiaoji/triangle.jpg",
           "enabled": true,
           "order": 11
         },
         {
           "title": "龙舟鼓声",
-          "src": "audio/jiaotong/dragonboat.mp3",
+          "src": "audio/qiaoji/dragonboat.mp3",
+          "image": "images/qiaoji/dragonboat.jpg",
           "enabled": true,
           "order": 12
         }
@@ -1292,37 +1470,43 @@
       "playlist": [
         {
           "title": "吉他声",
-          "src": "audio/yueqi/guitar.mp3",
+          "src": "audio/tanbo/guitar.mp3",
+          "image": "images/tanbo/guitar.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "竖琴声",
-          "src": "audio/yueqi/harp.mp3",
+          "src": "audio/tanbo/harp.mp3",
+          "image": "images/tanbo/harp.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "卡林巴琴声",
-          "src": "audio/yueqi/kalimba.mp3",
+          "src": "audio/tanbo/kalimba.mp3",
+          "image": "images/tanbo/kalimba.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "尤克里里扫弦",
-          "src": "audio/yueqi/ukulele.mp3",
+          "src": "audio/tanbo/ukulele.mp3",
+          "image": "images/tanbo/ukulele.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "琵琶声",
-          "src": "audio/yueqi/pipa.mp3",
+          "src": "audio/tanbo/pipa.mp3",
+          "image": "images/tanbo/pipa.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "古筝声",
-          "src": "audio/yueqi/guzheng.mp3",
+          "src": "audio/tanbo/guzheng.mp3",
+          "image": "images/tanbo/guzheng.jpg",
           "enabled": true,
           "order": 6
         }
@@ -1337,55 +1521,64 @@
       "playlist": [
         {
           "title": "小号声",
-          "src": "audio/yueqi/trumpet.mp3",
+          "src": "audio/chuiguan/trumpet.mp3",
+          "image": "images/chuiguan/trumpet.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "笛子声",
-          "src": "audio/yueqi/flute.mp3",
+          "src": "audio/chuiguan/flute.mp3",
+          "image": "images/chuiguan/flute.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "萨克斯声",
-          "src": "audio/yueqi/saxophone.mp3",
+          "src": "audio/chuiguan/saxophone.mp3",
+          "image": "images/chuiguan/saxophone.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "口琴声",
-          "src": "audio/yueqi/harmonica.mp3",
+          "src": "audio/chuiguan/harmonica.mp3",
+          "image": "images/chuiguan/harmonica.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "长号声",
-          "src": "audio/yueqi/trombone.mp3",
+          "src": "audio/chuiguan/trombone.mp3",
+          "image": "images/chuiguan/trombone.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "风笛声",
-          "src": "audio/yueqi/bagpipe.mp3",
+          "src": "audio/chuiguan/bagpipe.mp3",
+          "image": "images/chuiguan/bagpipe.jpg",
           "enabled": true,
           "order": 6
         },
         {
           "title": "排箫声",
-          "src": "audio/yueqi/panflute.mp3",
+          "src": "audio/chuiguan/panflute.mp3",
+          "image": "images/chuiguan/panflute.jpg",
           "enabled": true,
           "order": 7
         },
         {
           "title": "唢呐声",
-          "src": "audio/yueqi/suona.mp3",
+          "src": "audio/chuiguan/suona.mp3",
+          "image": "images/chuiguan/suona.jpg",
           "enabled": true,
           "order": 8
         },
         {
           "title": "葫芦丝声",
-          "src": "audio/yueqi/hulusi.mp3",
+          "src": "audio/chuiguan/hulusi.mp3",
+          "image": "images/chuiguan/hulusi.jpg",
           "enabled": true,
           "order": 9
         }
@@ -1400,37 +1593,43 @@
       "playlist": [
         {
           "title": "钢琴声",
-          "src": "audio/yueqi/piano.mp3",
+          "src": "audio/xianyue/piano.mp3",
+          "image": "images/xianyue/piano.jpg",
           "enabled": true,
           "order": 1
         },
         {
           "title": "小提琴声",
-          "src": "audio/yueqi/violin.mp3",
+          "src": "audio/xianyue/violin.mp3",
+          "image": "images/xianyue/violin.jpg",
           "enabled": true,
           "order": 2
         },
         {
           "title": "大提琴声",
-          "src": "audio/yueqi/cello.mp3",
+          "src": "audio/xianyue/cello.mp3",
+          "image": "images/xianyue/cello.jpg",
           "enabled": true,
           "order": 3
         },
         {
           "title": "手风琴声",
-          "src": "audio/yueqi/accordion.mp3",
+          "src": "audio/xianyue/accordion.mp3",
+          "image": "images/xianyue/accordion.jpg",
           "enabled": true,
           "order": 4
         },
         {
           "title": "扬琴声",
-          "src": "audio/yueqi/yangqin.mp3",
+          "src": "audio/xianyue/yangqin.mp3",
+          "image": "images/xianyue/yangqin.jpg",
           "enabled": true,
           "order": 5
         },
         {
           "title": "二胡声",
-          "src": "audio/yueqi/erhu.mp3",
+          "src": "audio/xianyue/erhu.mp3",
+          "image": "images/xianyue/erhu.jpg",
           "enabled": true,
           "order": 6
         }
